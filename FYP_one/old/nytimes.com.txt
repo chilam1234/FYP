@@ -1,0 +1,50 @@
+a tag
+taarget href: http://www.nytimes.com/
+img src: |title :|width :379|height :64
+___________________
+taarget href: http://www.nytimes.com/interactive/2015/11/24/world/middleeast/russia-turkey-jet-shoot-down-maps.html#pattern
+img src: http://static01.nyt.com/images/2015/11/24/world/middleeast/russia-turkey-jet-shoot-down-maps-1448382166586/russia-turkey-jet-shoot-down-maps-1448382166586-mediumFlexible177-v8.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/11/25/nyregion/sheldon-silver-trial-jury.html
+img src: http://static01.nyt.com/images/2015/11/25/nyregion/SILVER-web-alt/SILVER-web-alt-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/11/25/us/chicago-officer-charged-in-death-of-black-teenager-official-says.html?hp
+img src: http://static01.nyt.com/images/2015/11/25/nytnow/25video-laquan/25video-laquan-thumbStandard-v2.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/11/25/sports/basketball/artistry-of-stephen-curry-with-golden-state-warriors.html
+img src: http://static01.nyt.com/images/2015/11/25/sports/toned-curry-sub2/toned-curry-sub2-mediumFlexible177.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/11/25/us/politics/in-renovation-of-golf-club-donald-trump-also-dressed-up-history.html
+img src: http://static01.nyt.com/images/2015/11/25/us/25TRUMPGOLFweb/25TRUMPGOLFweb-thumbStandard-v3.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/11/29/magazine/a-dream-of-utopia-in-hell.html
+img src: http://static01.nyt.com/images/2015/11/29/magazine/29rojava1/29rojava1-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/11/25/us/politics/medal-of-freedom-awarded-to-a-class-act-group-of-17.html
+img src: http://static01.nyt.com/images/2015/11/25/us/25MEDAL-1/25MEDAL-1-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/12/01/science/electric-car-auto-dealers.html
+img src: http://static01.nyt.com/images/2015/11/25/science/01electric2/01electric2-thumbStandard-v2.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/11/25/opinion/the-case-against-woodrow-wilson-at-princeton.html
+img src: http://static01.nyt.com/images/2015/11/25/opinion/25wed1web/25wed1web-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/crosswords
+img src: http://static01.nyt.com/images/crosswords/crosswords_30x30.png|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/crosswords
+img src: http://static01.nyt.com/images/crosswords/crosswords_30x30.png|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/11/22/realestate/millennials-investing-in-rental-properties.html
+img src: http://static01.nyt.com/images/2015/11/22/realestate/22mort/22mort-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/11/22/realestate/daisy-prince-on-her-greenwich-village-apartment.html
+img src: http://static01.nyt.com/images/2015/11/22/realestate/22WHATILOVE-DAISY-PRINCE-slide-MYFV/22WHATILOVE-DAISY-PRINCE-slide-MYFV-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/
+img src: |title :|width :|height :
+___________________
+Iframe
+ID :|width :|height :
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+___________________

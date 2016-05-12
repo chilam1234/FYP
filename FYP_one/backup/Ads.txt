@@ -1,0 +1,300 @@
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_11|width :1|height :1
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_11__hidden__|width :0|height :0
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_1|width :970|height :250
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_3|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_2|width :100%|height :36     5
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_6|width :88|height :31
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_4|width :300|height :251
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_7|width :88|height :31
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_0|width :976|height :400
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_8|width :88|height :31   10
+src : 
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_5|width :300|height :251
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_9|width :88|height :31
+src :
+___________________
+taarget href: https://beap-bc.yahoo.com/yc/YnY9MS4wLjAmYnM9KDE4NGlla2FwNShnaWQkSnJwcjd6RXhOaTZCQU5kUXprbmlfaEFjTkRJdU9WWm5zWU1Rd3NlTSxzdCQxNDQ5NjM2MjI3OTUwODEyLHNpJDIwNTA2MSxzcCQxMTk3NzQ1MTI4LGN0JDI1LHlieCRVWG1rdDRSR2thX3U5bEZQWnI3QldBLGxuZyR6aC1oayxjciQxMzgyMzc1MDYxLHYkMi4wLGFpZCRQbkZnOHdydFNTWS0sYmkkMjg2MDM2MDYxLG1tZSQ0MjgyNTA1NzEwNzkwNDkxNjkzLHIkMCxpZCRJQ09OLHJkJDEwc2thb3NxbCx5b28kMSxhZ3AkMzQxMjcyOTQ5LGFwJEZQUjIpKQ/2/*http://twinshk15.tumblr.com/
+img src: https://s.yimg.com/ja/ap/default/151206/twinsHK.png|title :|width :|height :
+___________________
+ID :my-adsMBAR-iframe|width :300|height :250
+src :https://na.ads.yahoo.com/yax/banner?ve=1&tt=3&si=73373061&tc=a1c4c81bfabc7643&asz=300x250&u=https://hk.yahoo.com&gdAdId=ijti8wrtSSY-&gdUuid=Jrpr7zExNi6BANdQzkni_hAcNDIuOVZnsYMQwseM&gdSt=1449636227950812&publisher_blob=${RS}|Jrpr7zExNi6BANdQzkni_hAcNDIuOVZnsYMQwseM|1197745128|MBAR|1449636228.278935|2-9-2:ysd:1&pub_redirect=https://beap-bc.yahoo.com/yc/YnY9MS4wLjAmYnM9KDE3ZjZhc3A0aShnaWQkSnJwcjd6RXhOaTZCQU5kUXprbmlfaEFjTkRJdU9WWm5zWU1Rd3NlTSxzdCQxNDQ5NjM2MjI3OTUwODEyLHNpJDIwNTA2MSxzcCQxMTk3NzQ1MTI4LGN0JDI1LHlieCRVWG1rdDRSR2thX3U5bEZQWnI3QldBLGxuZyR6aC1oayxjciQxMzc3NTg5MDYxLHYkMi4wLGFpZCRpanRpOHdydFNTWS0sYmkkMjU5NDE5NTYxLG1tZSQ0MTc1NTc2MDU3NTA1NTk4NTIxLHIkMCx5b28kMSxhZ3AkMzExNTc2OTQ5LGFwJE1CQVIpKQ/2/*&K=1
+___________________
+taarget href: http://forum111.hkgolden.com/redirectck?p=68&z=20&b=1728&url=http%3A%2F%2Fwww.hmv.com.hk%2F
+img src: http://image.bmediaasia.com/HKGolden/2015/b/hmv_20151111_sb.jpg|title :hmv|width :728|height :90            15
+___________________
+taarget href: http://forum111.hkgolden.com/redirectck?p=36&z=2&b=885&url=http%3A%2F%2Fwww1.fevaworks.com%2Fportal%2Fsite%2Fcourse.asp%3Fcode%3Dcefadobe
+img src: http://image.bmediaasia.com/HKGolden/2015/b/fevaworks_20150306_mrec_cefadobe.jpg|title :fevaworks|width :300|height :250
+___________________
+ID :aswift_0|width :468|height :60
+src :
+___________________
+ID :aswift_1|width :300|height :250
+src :
+___________________
+ID :aswift_2|width :300|height :250
+src :
+___________________
+ID :aswift_3|width :728|height :90           20
+src :
+___________________
+taarget href: http://forum201.baby-kingdom.com/redirectck?p=1&z=1&b=5001&url=http%3A%2F%2Fwww.facebook.com%2Famethystbaby
+img src: http://image.baby-kingdom.com/images2/2015/b/mothercourt_20150529_stb.jpg|title :¦w¬ü¼ä amethyst BABY|width :468|height :60
+___________________
+taarget href: http://forum201.baby-kingdom.com/redirectck?p=1&z=271&b=4584&url=http%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F290761905%3B115379466%3Bq
+img src: http://image.baby-kingdom.com/1x1t.png|title :Abbott|width :183|height :280
+___________________
+taarget href: http://forum201.baby-kingdom.com/redirectck?p=532&z=247&b=5037&url=http%3A%2F%2Fgreensense.org.hk%2Fflagday          (21)
+img src: http://image.baby-kingdom.com/images2/2015/b/greensense_20150529_bsb.jpg|title :green sense|width :728|height :90
+___________________
+taarget href:  http://unwire.la/sapp5eb
+img src: http://cdn.unwire.hk/wp-content/uploads/2015/11/2015_oct_samsung_uni_300x100px_v1.jpg|title :|width :300|height :100
+___________________
+ID :google_ads_iframe_/1070067/homepage_superbanner_0|width :728|height :90
+src :
+___________________
+ID :google_ads_iframe_/1070067/homepage_Lrec1_0|width :300|height :250
+src :
+___________________
+taarget href: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssQbB4Akt82znCUPqEJlGcm6_ballk4MvmoKlyGugZjwAGVrpWOiaKD4nShNCioJPcMtGpW40Yf3aX4SUNZNcFrEn_QAECMKESNm3Fz&sig=Cg0ArKJSzJAn-iHSuhky&urlfix=1&adurl=http://www.cabletv.com.hk/ct/subscription_coverage.php
+img src: https://s1.2mdn.net/viewad/4143104/151207_LREC_300x250_R1.gif|title :|width :300|height :250
+___________________
+ID :|width :418|height :318
+src :http://n2.hk/ad/material/template/img.html?img=http://i.l.networld.hk/ad2/res/2015/12/09/a9/a98e24c6350cb694.jpg?clickTAG=http://c.l.networld.hk/lclick?seq=3015120900000001&loc=_adb_20_10002681&soid=0D0410AC0000566910B011873000
+___________________
+taarget href: //falcon.pixanalytics.com/ad/r?i=9d9f5ee5138cabcc1de2932ab4d51806&p=207&u=07ef84ffe4684557a191f9c597b02383&c=CgEBU1ZpEw6tJ5agAzkhAg%3D%3D
+img src: |title :|width :|height :
+___________________
+taarget href: //falcon.pixanalytics.com/ad/r?i=62dfb6f2181039734038183d183b1dcd&p=211&u=07ef84ffe4684557a191f9c597b02383&c=CgEBU1ZpEw6tJ5agAzkhAg%3D%3D
+img src: |title :|width :|height :
+___________________
+ID :aswift_0|width :170|height :263
+src :
+___________________
+ID :google_ads_iframe_/7350/NextMediaPortal/index/HeadBanner_0|width :970|height :160
+src :
+___________________
+ID :google_ads_iframe_/7350/NextMediaPortal/index/LREC1_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/7350/NextMediaPortal/index/LREC2_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/7350/NextMediaPortal/index/MiniBanner_0|width :300|height :100
+src :
+___________________
+taarget href: http://www.gamer.com.tw/adcounter.php?id=165477
+img src: http://p2.bahamut.com.tw/MATERIALS/69962.PNG|title :|width :180|height :150
+___________________
+taarget href: http://www.gamer.com.tw/adcounter.php?id=165331
+img src: http://p2.bahamut.com.tw/MATERIALS/69915.JPG|title :|width :300|height :360
+___________________
+taarget href: http://www.gamer.com.tw/adcounter.php?id=165364
+img src: http://p2.bahamut.com.tw/MATERIALS/70060.JPG?v=20151210111338|title :|width :300|height :360
+___________________
+taarget href: http://www.gamer.com.tw/adcounter.php?id=165494
+img src: http://p2.bahamut.com.tw/MATERIALS/69991.JPG|title :|width :300|height :360 (38)
+___________________
+ID :|width :300px|height :250px
+src :http://hkg3.aastocks.com/ad/images/10756/banner.htm
+___________________
+ID :|width :728px|height :90px
+src :http://hkg3.aastocks.com/ad/images/10531/banner.htm
+___________________
+ID :google_ads_iframe_/139969814/bomb01_top_1_0|width :728|height :90
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-1&p=http%3A//www.bomb01.com
+___________________
+ID :google_ads_iframe_/139969814/bomb01_grid_1_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-2&p=http%3A//www.bomb01.com
+___________________
+taarget href: http://ad.ettoday.net/adclick.php?bid=all_header_250x50&bannerid=19070
+img src: http://cdn1.ettoday.net/banners/19/19070-1.gif|title :|width :250|height :50
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_middle_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-1&p=http%3A//www.ettoday.net
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_2_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-2&p=http%3A//www.ettoday.net
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_3_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-3&p=http%3A//www.ettoday.net
+___________________
+ID :|width :300|height :250
+src :https://ad.doubleclick.net/ddm/adi/N1405.165020.HK.YAHOO.COM/B8799402.119036747;sz=300x250;dcopt=rcl;mtfIFrameRequest=false;click=https://na.ads.yahoo.com/yax/clk?sn%3Dc47786e6d0b1e19e88f4f6ce9664cec95af6366b%26es%3DBxBJtDXRVIMua6rTVmjzwqEjQXEcUisNKKLmepTD3r7Z1xgaIkyD4OIp2pZjHlwRx4x6DDoNqrVWJ6fDEF1YrT7ufHpgoVkCtNbn8hKdRlqk_g2_HwBB_L28rEzzeyTJq3eYVOQTiTiD3FNorZgMs6amC7nwdVje106P77N5oy5PpvhwFeDUsvzQ9HwBJPI9ag.h_VqN6yHxVD3NW8o9zI0kSrHfRXlFo2BUl_l6JNssloq7.WqKScVApHS1snQm1U4hui0S4VsJRd541hT87C2DPCqgsRGxvtgPUJfSGlTlRIqdCJiRONieHMJZLfGPVyuwYiIFk8egM7BUq3Gh.BWLSv45kPnh8.kNj0Oh6pYpniA.sU8eDuI-%26ve%3D2%26ty%3D0%26url%3Dhttp://pr.ybp.yahoo.com/cj/cd/K-k7D20zQVigJijHHRw7tEajZ02qzyXLVovb3BsY20wp2FEy6QbNTe-Y4u1fHxhcB0MFJylmBGYwIEopB4QDvKDUCTz0B7ryR0WHmSW6PtAIaCi8ukWMsxcJDOVZhCkA/rurl/;ord=8164484330328422197?
+___________________
+ID :|width :300|height :250
+src :https://ad.doubleclick.net/ddm/adi/N1405.165020.HK.YAHOO.COM/B8799402.119036747;sz=300x250;dcopt=rcl;mtfIFrameRequest=false;click=https://na.ads.yahoo.com/yax/clk?sn%3D08dd4f27658e50de870936012b5a8f8c3a44da90%26es%3D6gVFAwbRVIN4UG3G6ejKkImwhCgslX2qZa7PKANRfXq1NvkP59.e87myuuHiGUVEYw5Fl8sv8HGdMV5wuDN4Q41wnWlulxfAtmS01QlMh5nmhWtDs7VqBpPbA9Z44p9e8RNSi6hotMvpP8xUb5bg5WODiNxTfUvubqLwbVP7JiSjOrCe5htWORi02meHQUxeFVpOp68rI4ZtcmlCVcyTEZE5SdCePf7XoN39E4AQRY8ZPJ0wDP8ViB1TmPKj3OfbV5XXULxm_nE8LVqoMhcy0rLcDcmWvg8iga28SatD7xI4AUNp0Wse7QvcJxnx8MAszFyWKDYxcGlnup3.87e5gE6aF7d1MueQvagnHyExf4LFXxBZgAGxctw-%26ve%3D2%26ty%3D0%26url%3Dhttp://pr.ybp.yahoo.com/cj/cd/zCxdkxXk0dYfMTcqN0j25rK5MUZ8b6cwTw-h4hDZ9fSU4aY6YedwVObhAib8lqdcntCOruyDhdvUQWSYDd_wypLkatJbr88iNeVAau_hOLdN5AWzarxFFRFprbJ892UH/rurl/;ord=3232488921938386855?
+___________________
+taarget href: http://ad.ettoday.net/adclick.php?bid=all_header_250x50&bannerid=19070
+img src: http://cdn1.ettoday.net/banners/19/19070-1.gif|title :|width :250|height :50
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_middle_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-1&p=http%3A//www.ettoday.net
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_2_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-2&p=http%3A//www.ettoday.net   52
+___________________
+ID :|width :300|height :250
+src :http://n2.hk/ad/material/2015/201512/N1004583_7Eleven/v1/300x250.html?clickTAG=http://c.l.networld.hk/lclick?seq=3015120800000100&loc=_adb_20_10002743&soid=0C0410AC000056697A5587769100
+___________________
+ID :|width :300|height :250
+src :http://www.price.com.hk/dfp_price.php?au=Price_Web_Home_MR2&bsize=mr
+___________________
+ID :ebBannerIFrame_32467405_18768230629274696|width :300|height :250
+src :http://ds.serving-sys.com/BurstingRes/Site-10609/WSFolders/5082322_4//index.html?v=_2_51_1_0
+___________________
+ID :|width :300|height :13
+src :https://googleads.g.doubleclick.net/pagead/viewthroughconversion/979459899/?random=1449754510508&cv=8&fst=1449754510508&num=1&fmt=1&guid=ON&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=1&u_nmime=1&frm=0&url=http%3A//www.uwants.com/
+___________________
+taarget href: http://adclick.g.doubleclick.net/aclk%253Fsa%253DL%2526ai%253DBylD0LpVpVua3O8zh8QWfiZCoBsythr8HAAAAEAEgADgAWKSE7PyQA2DZAoIBF2NhLXB1Yi0yOTYxNjcwNDI5NTg5NjYwsgELbWluZ3Bhby5jb226AQswMGdmcF9pbWFnZcgBCdoBF2h0dHA6Ly93d3cubWluZ3Bhby5jb20vqQJc5RArSVGBPsACAuACAOoCHTcxMDEvTVBDX01haW5wb3J0YWwvZnJvbnRwYWdl-ALy0R6AAwGQA7AJmAOwCagDAeAEAZAGAaAGINgHAA%2526num%253D0%2526cid%253D5Gjj3Iazwqq6_QsnmyJW0YYI%2526sig%253DAOD64_11Ale-dyETea2QEpoRKVulGhN12Q%2526client%253Dca-pub-2961670429589660%2526adurl%253Dhttp://bs.serving-sys.com/BurstingPipe/adServer.bs%3Fcn%3Dtf%26c%3D20%26mc%3Dclick%26pli%3D15249421%26PluID%3D0%26ord%3D953170855
+img src: http://creative.mingpao.com/image/201511/tudor_300x30_20151124_A.gif|title :|width :300|height :30
+___________________
+ID :ebBannerIFrame_32312357_7592051901747675|width :728|height :90
+src :http://ds.serving-sys.com/BurstingRes/Site-17268/WSFolders/5064863_2//728x90_PELAGOS.html?v=_2_51_1_0
+___________________
+ID :ebBannerIFrame_32312383_9166787131437655|width :300|height :250
+src :http://ds.serving-sys.com/BurstingRes/Site-17268/WSFolders/4810843//300x250_PELAGOS.html?v=_2_51_1_0
+___________________
+ID :|width :300|height :13
+src :https://googleads.g.doubleclick.net/pagead/viewthroughconversion/973446477/?random=1449760043392&cv=8&fst=1449760043392&num=1&fmt=1&guid=ON&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=1&u_nmime=1&frm=0&url=http%3A//mingpao.com/
+___________________
+ID :google_ads_iframe_/1020477/BE_CHANNEL_ICON_0|width :250|height :50
+src :
+___________________
+ID :google_ads_iframe_/1020477/BE_HP_CRAZY_ADV_0|width :915|height :500
+src :
+___________________
+ID :google_ads_iframe_/1020477/BE_HP_DOMINATE_0|width :915|height :512
+src :
+___________________
+ID :google_ads_iframe_/1020477/BE_HP_COVER_1_0|width :915|height :380
+src :
+___________________
+ID :google_ads_iframe_/1020477/BE_HP_SUPER_0|width :728|height :90
+src :
+___________________
+ID :google_ads_iframe_/1020477/BE_IMP_HP_DOMINATE_1|width :915|height :512
+src :
+___________________
+ID :google_ads_iframe_/1020477/BE_BOTTOM_UP_0|width :913|height :300   67
+src :
+___________________
+ID :google_ads_iframe_/23119269/standnews_desktop_crazy_1020x715_0|width :1020|height :715
+src :
+___________________
+ID :google_ads_iframe_/23119269/standnews_mobile_crazy_320x416_0|width :320|height :416
+src :
+___________________
+ID :google_ads_iframe_/23119269/standnews_mobile_sidebar1_300x250_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/23119269/standnews_mobile_sidebar2_300x250_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/23119269/standnews_desktop_sidebar1_300x250_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/23119269/standnews_desktop_sidebar2_300x250_0|width :300|height :250  74
+src :
+___________________
+ID :google_ads_iframe_/12043685/test-desktop-home-small-Box0-300x250_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/12043685/pro-desktop-home-small-Box1-300x250_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/12043685/pro-desktop-home-small-Box2-300x250_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/1070067/homepage_superbanner_0|width :728|height :90
+src :
+___________________
+ID :HomeAdBannerIFrame|width :|height :
+src :http://hk.jobsdb.com/HK/en/Home/AdBannerHorizontal?adLink=HomeBanner
+___________________
+ID :AdBannerIFrameB|width :|height :
+src :http://hk.jobsdb.com/HK/en/Home/GetAdBannerByFileName?fileName=PlaceHolderB
+___________________
+ID :AdBannerIFrameA|width :|height :
+src :http://hk.jobsdb.com/HK/en/Home/GetAdBannerByFileName?fileName=PlaceHolderA
+___________________
+ID :a6217360_1|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=1
+___________________
+ID :a6217360_2|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=2
+___________________
+ID :a6217360_3|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=3
+___________________
+ID :a6217360_4|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=4
+___________________
+ID :a6217360_5|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=5
+___________________
+ID :a6217360_6|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=6
+___________________
+ID :a6217360_7|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=7
+___________________
+ID :a6217360_8|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=8
+___________________
+ID :a6217360_9|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=9
+___________________
+ID :a6217360_10|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=10
+___________________
+ID :a6217360_11|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=11
+___________________
+ID :a6217360_12|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=12
+___________________
+ID :a6217360_13|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=13
+___________________
+ID :a6217360_14|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=14
+___________________
+ID :a6217360_15|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=15
+___________________
+ID :google_ads_iframe_/41973803/tvmost_index_a_0|width :970|height :160
+src :
+___________________
+ID :google_ads_iframe_/41973803/tvmost_index_b_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/41973803/tvmost_banner_c_0|width :468|height :60
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-1&p=http%3A//tvmost.com.hk
+___________________
+ID :google_ads_iframe_/41973803/tvmost_index_d_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-2&p=http%3A//tvmost.com.hk
+___________________
+ID :google_ads_iframe_/41973803/tvmost_banner_e_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-3&p=http%3A//tvmost.com.hk
+___________________

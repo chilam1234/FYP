@@ -1,0 +1,128 @@
+a tag
+taarget href: index.php
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:void(0);
+img src: |title :|width :|height :
+___________________
+taarget href: https://circle.uwants.com
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:void(0);
+img src: |title :|width :|height :
+___________________
+taarget href: http://www.mammydaddy.com/
+img src: http://www.uwants.com/images/service_menu/mammydaddy.png|title :|width :|height :
+___________________
+taarget href: http://www.mytour.com.hk/
+img src: http://www.uwants.com/images/service_menu/mytour.png|title :|width :|height :
+___________________
+taarget href: http://www.jetso.com.hk/
+img src: http://www.uwants.com/images/service_menu/jetso.png|title :|width :|height :
+___________________
+taarget href: http://www.price.com.hk/
+img src: http://www.uwants.com/images/service_menu/price.png|title :|width :|height :
+___________________
+taarget href: http://www.car.com.hk/
+img src: http://www.uwants.com/images/service_menu/car.png|title :|width :|height :
+___________________
+taarget href: http://playgame.hk/
+img src: http://www.uwants.com/images/service_menu/playgame.hk_logo.png|title :|width :|height :
+___________________
+taarget href: http://www.adhere.com.hk/
+img src: http://www.uwants.com/images/service_menu/adhere.png|title :|width :|height :
+___________________
+taarget href: index.php
+img src: |title :|width :|height :
+___________________
+taarget href: forumdisplay.php?fid=218
+img src: |title :|width :|height :
+___________________
+taarget href: forumdisplay.php?fid=218
+img src: |title :|width :|height :
+___________________
+taarget href: http://c.l.networld.hk/lclick?seq=3015020900000016&loc=_adb_20_10003325&soid=0B0410AC000056697F8E08405800
+img src: http://i.l.networld.hk/ad2/res/2015/07/31/41/4136a1707bea9eee.png|title :|width :|height :
+___________________
+taarget href: http://c.l.networld.hk/lclick?seq=3015020900000016&loc=_adb_20_10003325&soid=0B0410AC000056697F8E08405800
+img src: http://i.l.networld.hk/ad2/res/2015/07/31/0a/0aadd60a8940ff4b.png|title :|width :|height :
+___________________
+taarget href: http://c.l.networld.hk/lclick?seq=3015020900000017&loc=_adb_20_10003326&soid=0D0410AC000056697F8E11690000
+img src: http://i.l.networld.hk/ad2/res/2015/07/31/79/793d91e8134d4c92.png|title :|width :|height :
+___________________
+taarget href: http://c.l.networld.hk/lclick?seq=3015020900000017&loc=_adb_20_10003326&soid=0D0410AC000056697F8E11690000
+img src: http://i.l.networld.hk/ad2/res/2015/07/31/83/839f8e728538fc87.png|title :|width :|height :
+___________________
+taarget href: forumdisplay.php?fid=218
+img src: |title :|width :|height :
+___________________
+taarget href: index2.php?gid=274
+img src: |title :|width :|height :
+___________________
+taarget href: forumdisplay.php?fid=134
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:void(0);
+img src: |title :|width :|height :
+___________________
+taarget href: viewthread.php?tid=18839803
+img src: http://n2.hk/attachments/day_151210/151210_55b5fb7c028fcc143e89f9d4054a8423|title :|width :|height :
+___________________
+taarget href: viewthread.php?tid=18832231
+img src: http://n2.hk/attachments/day_151204/151204_996f5744a7a50dcdd98f88071b9a08f9|title :|width :|height :
+___________________
+taarget href: viewthread.php?tid=18837758
+img src: http://n2.hk/attachments/day_151209/151209_55cfafc29957d812a5333a8045c69428|title :|width :|height :
+___________________
+taarget href: index2.php?gid=255
+img src: |title :|width :|height :
+___________________
+taarget href: index2.php?gid=620
+img src: |title :|width :|height :
+___________________
+taarget href: viewthread.php?tid=18831337
+img src: http://n2.hk/attachments/day_151203/151203_561890819974a76c7551f3ebe993d64d|title :|width :|height :
+___________________
+taarget href: viewthread.php?tid=18827899
+img src: http://n2.hk/attachments/day_151201/151201_15b725adae89cd05df290f2fda6c168f|title :|width :|height :
+___________________
+taarget href: index2.php?gid=630
+img src: |title :|width :|height :
+___________________
+taarget href: viewthread.php?tid=18834002
+img src: http://n2.hk/attachments/day_151205/151205_bab142ca197817413b8cdb068e73ecef|title :|width :|height :
+___________________
+taarget href: index2.php?gid=982
+img src: |title :|width :|height :
+___________________
+taarget href: viewthread.php?tid=18826459
+img src: http://n2.hk/attachments/day_151130/151130_561890819974a76c7551f3ebe993d64d|title :|width :|height :
+___________________
+taarget href: index2.php?gid=977
+img src: |title :|width :|height :
+___________________
+taarget href: http://c.l.networld.hk/lclick?seq=3015032400000022&loc=_adb_20_10003327&soid=0D0410AC000056697F8E35563200
+img src: http://i.l.networld.hk/ad2/res/2015/03/24/1d/1d1d639ff0b9d91a.png|title :|width :|height :
+___________________
+taarget href: http://c.l.networld.hk/lclick?seq=3015120200000008&loc=_adb_20_10003328&soid=0D0410AC000056697F8E39659100
+img src: http://i.l.networld.hk/ad2/res/2015/06/03/9d/9d8f19cf4bb1f187.png|title :|width :|height :
+___________________
+taarget href: http://c.l.networld.hk/lclick?seq=3015120200000008&loc=_adb_20_10003328&soid=0D0410AC000056697F8E39659100
+img src: http://i.l.networld.hk/ad2/res/2015/06/03/7b/7b8419507329412b.png|title :|width :|height :
+___________________
+Iframe
+ID :|width :584|height :405
+src :
+___________________
+ID :|width :300|height :275
+src :
+___________________
+ID :aswift_0|width :300|height :250
+src :
+___________________
+ID :|width :300|height :13
+src :https://googleads.g.doubleclick.net/pagead/viewthroughconversion/979459899/?random=1449754510508&cv=8&fst=1449754510508&num=1&fmt=1&guid=ON&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=1&u_nmime=1&frm=0&url=http%3A//www.uwants.com/
+___________________
+ID :google_osd_static_frame_6889081954800|width :|height :
+src :
+___________________

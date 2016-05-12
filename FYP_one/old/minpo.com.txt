@@ -1,0 +1,293 @@
+a tag
+taarget href: http://www.mediachinesegroup.com/htm/content.cfm?channel=main&lang=E
+img src: http://www.mingpao.com/image/btn_logo_mediachinese.gif|title :世界華文|width :92|height :75
+___________________
+taarget href: http://premium.mingpao.com/
+img src: http://www.mingpao.com/image/sub_epaper2.gif|title :電子報|width :|height :
+___________________
+taarget href: https://marketing2.mingpao.com/htm/NewsPrintSubscribe/cfm/PrintPlan1.cfm
+img src: http://www.mingpao.com/image/sub_paper2.gif|title :印刷版訂閱|width :|height :
+___________________
+taarget href: http://epaper.mingpao.com/cfm/index.cfm
+img src: http://www.mingpao.com/image/sub_epaper_student2.gif|title :電子報 學生版|width :|height :
+___________________
+taarget href: http://www.mingpaoracing.com/
+img src: http://www.mingpao.com/image/sub_race.gif|title :易博網|width :|height :
+___________________
+taarget href: http://news.mingpao.com/
+img src: http://www.mingpao.com/image/t_menu_a.gif|title :新聞|width :|height :
+___________________
+taarget href: http://news.mingpao.com/ins/即時新聞/web_tc/main
+img src: http://www.mingpao.com/image/t_menu_b.gif|title :即時新聞|width :|height :
+___________________
+taarget href: http://www.mpfinance.com/
+img src: http://www.mingpao.com/image/t_menu_c.gif|title :財經|width :|height :
+___________________
+taarget href: http://property.mpfinance.com/
+img src: http://www.mingpao.com/image/t_menu_d.gif|title :地產|width :|height :
+___________________
+taarget href: http://education.mingpao.com/
+img src: http://www.mingpao.com/image/t_menu_e.gif|title :教育|width :|height :
+___________________
+taarget href: http://www.happypama.com/
+img src: http://www.mingpao.com/image/t_menu_f.gif|title :親子|width :|height :
+___________________
+taarget href: http://ol.mingpao.com/
+img src: http://www.mingpao.com/image/t_menu_g.gif|title :OL|width :|height :
+___________________
+taarget href: http://travel.mingpao.com/
+img src: http://www.mingpao.com/image/t_menu_h.gif|title :旅遊|width :|height :
+___________________
+taarget href: http://www.charming-online.com/
+img src: http://www.mingpao.com/image/t_menu_i.gif|title :翠明假期|width :|height :
+___________________
+taarget href: http://www.mingpaohealth.com/
+img src: http://www.mingpao.com/image/t_menu_j.gif|title :健康|width :|height :
+___________________
+taarget href: http://jump.mingpao.com/
+img src: http://www.mingpao.com/image/t_menu_k.gif|title :求職增值|width :|height :
+___________________
+taarget href: http://www.mingpaomonthly.com/
+img src: http://www.mingpao.com/image/t_menu_l.gif|title :明月|width :|height :
+___________________
+taarget href: http://books.mingpao.com/
+img src: http://www.mingpao.com/image/t_menu_m.gif|title :書店|width :|height :
+___________________
+taarget href: http://reading.mingpao.com/
+img src: http://www.mingpao.com/image/t_menu_n.gif|title :讀書|width :|height :
+___________________
+taarget href: http://video.mingpao.com/
+img src: http://www.mingpao.com/image/t_menu_o.gif|title :video|width :|height :
+___________________
+taarget href: http://car.mingpao.com/
+img src: http://www.mingpao.com/image/t_menu_p.gif|title :明車|width :|height :
+___________________
+taarget href: http://mpdeluxe.hk
+img src: http://www.mingpao.com/image/t_menu_q.gif|title :deluxe|width :|height :
+___________________
+taarget href: https://member.mingpao.com/cfm/Service.cfm
+img src: http://www.mingpao.com/image/menu1a_12.gif|title :|width :107|height :21
+___________________
+taarget href: http://news.mingpao.com/ins/instantnews/web_tc/article/20151210/s00006/1449751588643
+img src: http://fs.mingpao.com/ins/20151210/s00006/1449752384104SL4_A00129EAF35F0D1B189D4FDC6EE33F30.jpg|title :【香港勁揪】李晉熙周凱華再做「巨人殺手」   羽毛球年終賽挫世界第2混雙組合|width :345|height :240
+___________________
+taarget href: http://news.mingpao.com/ins/即時新聞/web_tc/main
+img src: http://www.mingpao.com/image/news_inst_hd.gif|title :即時頭條|width :60|height :18
+___________________
+taarget href: http://news.mingpao.com/
+img src: http://www.mingpao.com/image/news_hd2.gif|title :明報新聞主頁|width :60|height :18
+___________________
+taarget href: http://news.mingpao.com/pns/要聞/web_tc/section/20151210/s00001
+img src: http://www.mingpao.com/image/hd_ga.gif|title :要聞|width :|height :
+___________________
+taarget href: http://news.mingpao.com/pns/港聞/web_tc/section/20151210/s00002
+img src: http://www.mingpao.com/image/hd_gb.gif|title :港聞|width :|height :
+___________________
+taarget href: http://news.mingpao.com/pns/中國/web_tc/section/20151210/s00013
+img src: http://www.mingpao.com/image/hd_ca.gif|title :中國|width :|height :
+___________________
+taarget href: http://news.mingpao.com/pns/國際/web_tc/section/20151210/s00014
+img src: http://www.mingpao.com/image/hd_ta.gif|title :國際|width :|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz1.php?page=1
+img src: http://www.mingpao.com/image/t_entheadline.gif|title :娛樂頭條|width :60|height :15
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449684373803&subcate=news&issue=20151210
+img src: http://fs.mingpao.com/ldy/20151210/s00008/1449684563515SS_538F6D003DD0EC512B9EBF1F362B2F2D.jpg|title :星爺迎戰發哥城城  爭奪票房之王  內地賀歲檔4猛片硬撼|width :160|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz2.php?subcate=latest&page=1
+img src: http://www.mingpao.com/image/t_ient.gif|title :即時娛樂|width :60|height :15
+___________________
+taarget href: http://www.mpfinance.com/
+img src: http://www.mingpao.com/image/t_finance.gif|title :財經|width :40|height :15
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz1.php?page=1
+img src: http://www.mingpao.com/image/t_people.gif|title :人物|width :61|height :15
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449684387796&subcate=news&issue=20151210
+img src: http://fs.mingpao.com/ldy/20151210/s00008/4f128cddda7f25475382dc485c01c466.jpg|title :國際名模Miranda Kerr昨日以一身型格打扮現身香港機場。（攝影：孫華中）|width :160|height :
+___________________
+taarget href: http://ol.mingpao.com/php/celebrity1.php?page=1
+img src: http://www.mingpao.com/image/t_star.gif|title :星星專訪|width :61|height :15
+___________________
+taarget href: http://ol.mingpao.com/php/celebrity3.php?nodeid=1448867157522&subcate=startalk&issue=20151130
+img src: http://fs.mingpao.com/ldy/20151130/s00030/1448867147320SS_0DBCA243D8C47A0383B9B5E4FB56B3DB.jpg|title :李準認孤寒  聖誕不送禮|width :160|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449742102609&subcate=latest&issue=20151210
+img src: http://www.mingpao.com/ftp/Mpc2/20151210/ed01/ED011210.jpg|title :熊黛林：你曬得我又曬得|width :100|height :100
+___________________
+taarget href: http://ol.mingpao.com/php/album1.php?&page=1&nodeid=1449662458479&subcate=showbiz&issue=20151209
+img src: http://www.mingpao.com/ftp/Mpc2/20151210/ed03/ED031210.jpg|title :6歲劉楚恬全球最年輕美女|width :100|height :100
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449599254001&subcate=news&issue=20151209
+img src: http://www.mingpao.com/ftp/Mpc2/20151209/ed02/ED02_100.jpg|title :[有片]莊思敏爆喊斥王宗堯|width :100|height :100
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449737591206&subcate=latest&issue=20151210
+img src: http://www.mingpao.com/ftp/Mpc2/20151210/ed04/ED041210.jpg|title :徐榮B女演《愛．回家》|width :100|height :100
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449642411944&subcate=latest&issue=20151209
+img src: http://www.mingpao.com/image/btn_play.png|title :|width :|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449642411944&subcate=latest&issue=20151209
+img src: http://www.mingpao.com/ftp/Mpc2/20151209/vd01/ENT20151209_01_640x360.jpg|title :楊采妮：城城春風滿面|width :124|height :94
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449572884494&subcate=latest&issue=20151208
+img src: http://www.mingpao.com/image/btn_play.png|title :|width :|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449572884494&subcate=latest&issue=20151208
+img src: http://www.mingpao.com/ftp/Mpc2/20151208/vd04/ENT20151208_03_640x360.jpg|title :克勤唔覺崔健有惡意|width :124|height :94
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449481639201&subcate=latest&issue=20151207
+img src: http://www.mingpao.com/image/btn_play.png|title :|width :|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449481639201&subcate=latest&issue=20151207
+img src: http://www.mingpao.com/ftp/Mpc2/20151207/vd03/VD031207.jpg|title :2013年孫季卿專訪|width :124|height :94
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449663664189&subcate=latest&issue=20151209
+img src: http://www.mingpao.com/image/btn_play.png|title :|width :|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449663664189&subcate=latest&issue=20151209
+img src: http://www.mingpao.com/ftp/Mpc2/20151209/vd05/ENT20151209_03_640x360.jpg|title :Miranda Kerr全裸影雜誌|width :124|height :94
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449572767603&subcate=latest&issue=20151208
+img src: http://www.mingpao.com/image/btn_play.png|title :|width :|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449572767603&subcate=latest&issue=20151208
+img src: http://www.mingpao.com/ftp/Mpc2/20151208/vd09/ENT20151208_02_640x360.jpg|title :馮德倫笑林嘉欣片酬貴|width :124|height :94
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449654273300&subcate=latest&issue=20151209
+img src: http://www.mingpao.com/image/btn_play.png|title :|width :|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449654273300&subcate=latest&issue=20151209
+img src: http://www.mingpao.com/ftp/Mpc2/20151209/vd02/ENT20151209_02_640x360.jpg|title :高海寧感莊思敏委屈|width :124|height :94
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449407504517&subcate=latest&issue=20151206
+img src: http://www.mingpao.com/image/btn_play.png|title :|width :|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449407504517&subcate=latest&issue=20151206
+img src: http://www.mingpao.com/ftp/Mpc2/20151206/vd06/ENT20151206_02_640x360.jpg|title :謝安琪化身迪士尼公主|width :124|height :94
+___________________
+taarget href: http://video.mingpao.com/cfm/info4.cfm?File=20140609/infc01/bus20140403_01_640x360.txt&CPageNo=1
+img src: http://www.mingpao.com/image/btn_play.png|title :|width :|height :
+___________________
+taarget href: http://video.mingpao.com/cfm/info4.cfm?File=20140609/infc01/bus20140403_01_640x360.txt&CPageNo=1
+img src: http://www.mingpao.com/ftp/Mpc2/20140609/vd07/kwokkc-vd7.jpg|title :財經沙龍-郭國全|width :124|height :94
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449477916722&subcate=latest&issue=20151207
+img src: http://www.mingpao.com/image/btn_play.png|title :|width :|height :
+___________________
+taarget href: http://ol.mingpao.com/php/showbiz3.php?nodeid=1449477916722&subcate=latest&issue=20151207
+img src: http://www.mingpao.com/ftp/Mpc2/20151207/vd08/ENT20151207_02_640x360.jpg|title :城城稱方媛：我女朋友|width :124|height :94
+___________________
+taarget href: http://ol.mingpao.com/cfm/food1.cfm
+img src: http://www.mingpao.com/image/t_food.gif|title :飲食|width :41|height :15
+___________________
+taarget href: http://ol.mingpao.com/php/cultureleisure3.php?nodeid=1449599309740&subcate=dining&issue=20151209
+img src: http://fs.mingpao.com/ldy/20151209/s00014/1c5ce85aeaef2086d76877345b027a0e.jpg|title :酒評人精選 一click「網」羅派對佳釀|width :120|height :
+___________________
+taarget href: http://www.mingpaohealth.com/
+img src: http://www.mingpao.com/image/t_health.gif|title :健康|width :43|height :15
+___________________
+taarget href: http://www.mingpaohealth.com/cfm/archive1.cfm?File=20150720/hefe/20150720.txt
+img src: http://www.mingpao.com/image/default_Health2HEFE.jpg|title :「結直腸癌診療新趨勢」講座|width :120|height :
+___________________
+taarget href: http://life.mingpao.com/cfm/redirect.cfm?File=20151210/lnall/gfb1.txt
+img src: http://life.mingpao.com/ftp/Life3/20151210/lnall/10gf402.jpg|title :時事通識教材|width :120|height :
+___________________
+taarget href: javascript:MM_showHideLayers('Magazine1','','show','Magazine3','','hide');
+img src: http://www.mingpao.com/image/tab_tw.jpg|title :|width :128|height :25
+___________________
+taarget href: javascript:MM_showHideLayers('Magazine1','','hide','Magazine3','','show');
+img src: http://www.mingpao.com/image/tab_mpweekly.jpg|title :|width :128|height :25
+___________________
+taarget href: http://www.yzzk.com/
+img src: http://www.mingpao.com/ftp/Mpc2/20151204/yzzk/YZZK.jpg|title :《亞洲週刊》|width :120|height :
+___________________
+taarget href: http://www.mingpaoweekly.com
+img src: http://www.mingpao.com/ftp/Mpc2/20151205/mpweekly/MPWEEKLY.jpg|title :《明報周刊》|width :120|height :
+___________________
+taarget href: http://travel.mingpao.com/
+img src: http://www.mingpao.com/image/t_travel.gif|title :旅遊|width :43|height :15
+___________________
+taarget href: http://travel.mingpao.com/cfm/archive1.cfm?File=20151209/webnews/zma1.txt
+img src: http://travel.mingpao.com/ftp/Travel2/20151209/webnews/09ZM002_.jpg|title :賞古蹟以外  柬埔寨良心消費遊|width :160|height :
+___________________
+taarget href: http://happypama.mingpao.com/
+img src: http://www.mingpao.com/image/t_pama.gif|title :親子|width :43|height :15
+___________________
+taarget href: http://happypama.mingpao.com/cfm/Ebook1.cfm?SubCategory=pama&Page&Page=1'
+img src: http://happypama.mingpao.com/ftp/HappyPaMa/20151201/pama/page_U01-U24_01.jpg|title :Happy PaMa 教得樂|width :160|height :
+___________________
+taarget href: http://travel.mingpao.com/cfm/mem1.cfm
+img src: http://www.mingpao.com/image/t_album.gif|title :讀者相片|width :61|height :15
+___________________
+taarget href: http://travel.mingpao.com/cfm/gal4.cfm?File=20141206/gal/ausyd_2014120601.txt&Mode=2
+img src: http://travel.mingpao.com/ftp/Travel2/20141206/gal/01302244_00002778_00000001_0897481894.jpg|title :澳洲?悉尼街頭|width :160|height :
+___________________
+taarget href: http://travel.mingpao.com/cfm/mem1.cfm
+img src: http://www.mingpao.com/image/btn_album_travel.gif|title :旅遊|width :|height :
+___________________
+taarget href: http://happypama.mingpao.com/cfm/relation6.cfm?SubCategory=pica
+img src: http://www.mingpao.com/image/btn_album_pama.gif|title :親子|width :|height :
+___________________
+taarget href: http://news.mingpao.com/pns/dailynews/web_tc/article/20151210/s00002/1449683401765
+img src: http://www.mingpao.com/image/t_emily.gif|title :Emily|width :43|height :15
+___________________
+taarget href: http://news.mingpao.com/pns/dailynews/web_tc/article/20151210/s00002/1449683401765
+img src: http://www.mingpao.com/image/default_WebNewsGZB.jpg|title :梁振英黃家強合唱 fb放片  《喜歡你》風波 特首辦畀版稅|width :160|height :
+___________________
+taarget href: http://car.mingpao.com/
+img src: http://www.mingpao.com/image/t_car.gif|title :汽車|width :43|height :15
+___________________
+taarget href: http://car.mingpao.com/cfm/archive1.cfm?File=20151210/insa/insa.txt
+img src: http://car.mingpao.com/ftp/Car/20151210/insa/11-sf12.jpg|title :Volkswagen Tiguan Sport Edition|width :160|height :
+___________________
+taarget href: http://adclick.g.doubleclick.net/aclk%253Fsa%253DL%2526ai%253DBylD0LpVpVua3O8zh8QWfiZCoBsythr8HAAAAEAEgADgAWKSE7PyQA2DZAoIBF2NhLXB1Yi0yOTYxNjcwNDI5NTg5NjYwsgELbWluZ3Bhby5jb226AQswMGdmcF9pbWFnZcgBCdoBF2h0dHA6Ly93d3cubWluZ3Bhby5jb20vqQJc5RArSVGBPsACAuACAOoCHTcxMDEvTVBDX01haW5wb3J0YWwvZnJvbnRwYWdl-ALy0R6AAwGQA7AJmAOwCagDAeAEAZAGAaAGINgHAA%2526num%253D0%2526cid%253D5Gjj3Iazwqq6_QsnmyJW0YYI%2526sig%253DAOD64_11Ale-dyETea2QEpoRKVulGhN12Q%2526client%253Dca-pub-2961670429589660%2526adurl%253Dhttp://bs.serving-sys.com/BurstingPipe/adServer.bs%3Fcn%3Dtf%26c%3D20%26mc%3Dclick%26pli%3D15249421%26PluID%3D0%26ord%3D953170855
+img src: http://creative.mingpao.com/image/201511/tudor_300x30_20151124_A.gif|title :|width :300|height :30
+___________________
+taarget href: http://news.mingpao.com/ins/即時新聞/web_tc/main
+img src: http://www.mingpao.com/image/news_instnews.gif|title :即時新聞|width :271|height :25
+___________________
+taarget href: http://news.mingpao.com/cfm/rss.cfm
+img src: http://www.mingpao.com/image/news_instnews_rss.jpg|title :RSS|width :63|height :25
+___________________
+taarget href: https://www.facebook.com/mingpaopub
+img src: http://www.mingpao.com/image/p01b_20150915.jpg|title :明報出版社|width :|height :
+___________________
+taarget href: http://premium.mingpao.com
+img src: http://www.mingpao.com/image/p02a_20150810.jpg|title :明報電子報|width :|height :
+___________________
+taarget href: http://news.mingpao.com/ins/圖片看世界-新聞圖輯/web_tc/photo3/latest
+img src: http://www.mingpao.com/image/t_photo.gif|title :新聞圖輯|width :61|height :15
+___________________
+taarget href: http://news.mingpao.com/ins/instantnews/web_tc/photo3/album/s00014/1449580970971/1449682879851
+img src: http://fs.mingpao.com/ins/ALBUM/s00014/1449681902150SL4_18ED40170B88093C5B565DE25510CB9E.jpg|title :【杜葉錫恩走完為民一生】捍衛基層　敢批政府　享年102歲|width :230|height :
+___________________
+taarget href: http://news.mingpao.com/ins/圖片看世界-新聞圖輯/web_tc/photo3/latest
+img src: http://www.mingpao.com/image/btn_more_photo.gif|title :更多新聞圖輯|width :94|height :13
+___________________
+taarget href: javascript:document.forms['FoodSearch'].submit();
+img src: http://www.mingpao.com/image/searchbox_btn0.gif|title :搜尋|width :83|height :27
+___________________
+taarget href: javascript:document.forms['RecipeSearch'].submit();
+img src: http://www.mingpao.com/image/searchbox_btn0.gif|title :搜尋|width :83|height :27
+___________________
+taarget href: javascript:document.forms['JobSearch1'].submit();
+img src: http://www.mingpao.com/image/searchbox_btn0.gif|title :搜尋|width :83|height :27
+___________________
+taarget href: javascript:document.forms['JobSearch2'].submit();
+img src: http://www.mingpao.com/image/searchbox_btn0.gif|title :搜尋|width :83|height :27
+___________________
+taarget href: javascript:document.forms['CourseSearch'].submit();
+img src: http://www.mingpao.com/image/searchbox_btn0.gif|title :|width :83|height :27
+___________________
+Iframe
+ID :ebBannerIFrame_32312357_7592051901747675|width :728|height :90
+src :http://ds.serving-sys.com/BurstingRes/Site-17268/WSFolders/5064863_2//728x90_PELAGOS.html?v=_2_51_1_0
+___________________
+ID :ebBannerIFrame_32312383_9166787131437655|width :300|height :250
+src :http://ds.serving-sys.com/BurstingRes/Site-17268/WSFolders/4810843//300x250_PELAGOS.html?v=_2_51_1_0
+___________________
+ID :|width :300|height :13
+src :https://googleads.g.doubleclick.net/pagead/viewthroughconversion/973446477/?random=1449760043392&cv=8&fst=1449760043392&num=1&fmt=1&guid=ON&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=1&u_nmime=1&frm=0&url=http%3A//mingpao.com/
+___________________

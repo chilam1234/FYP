@@ -1,0 +1,176 @@
+a tag
+taarget href: javascript:void(0)
+img src: http://n2.hk/ad/cross-button.png|title :|width :|height :
+___________________
+taarget href: /
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100154
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100005
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100119
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100120
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100001
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100155
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100043
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100082
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100008
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100069
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100079
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100053
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100023
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100018
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100051
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100027
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100037
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100123
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100039
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100044
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100061
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100063
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100062
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100075
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100165
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100249
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100254
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100156
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100133
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100101
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100111
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100113
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100231
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100232
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100234
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100235
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100218
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100219
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100220
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100222
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100199
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100193
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100190
+img src: |title :|width :|height :
+___________________
+taarget href: /category.php?c=100192
+img src: |title :|width :|height :
+___________________
+taarget href: http://c.l.networld.hk/lclick?seq=3015051800000011&loc=_adb_20_10002747
+img src: http://i.l.networld.hk/ad2/res/2015/05/18/67/67f35faf308f1065.jpg|title :|width :300|height :250
+___________________
+taarget href: https://itunes.apple.com/hk/app/price.com.hk/id455201798?mt=8
+img src: |title :|width :|height :
+___________________
+taarget href: https://play.google.com/store/apps/details?id=networld.price.app
+img src: |title :|width :|height :
+___________________
+Iframe
+ID :|width :985|height :610
+src :http://i.l.networld.hk/ad2/res/2015/12/07/46/46c59dca92302029.jpg?clickTAG=http://c.l.networld.hk/lclick?seq=3015120700000070&loc=_adb_20_10002742&soid=0C0410AC000056697A5496029300
+___________________
+ID :google_top_static_frame|width :|height :
+src :
+___________________
+ID :NW_500017866_iframe|width :970|height :250
+src :http://i.l.networld.hk/ad2/res/2015/12/07/84/84b744f1ab0c605e.jpg?clickTAG=http://c.l.networld.hk/lclick?seq=3015120700000070&loc=_adb_20_10002742&soid=0C0410AC000056697A5496029300
+___________________
+ID :|width :300|height :250
+src :http://n2.hk/ad/material/2015/201512/N1004583_7Eleven/v1/300x250.html?clickTAG=http://c.l.networld.hk/lclick?seq=3015120800000100&loc=_adb_20_10002743&soid=0C0410AC000056697A5587769100
+___________________
+ID :|width :300|height :250
+src :http://www.price.com.hk/dfp_price.php?au=Price_Web_Home_MR2&bsize=mr
+___________________
+ID :aswift_0|width :300|height :600
+src :
+___________________
+ID :aswift_1|width :300|height :250
+src :
+___________________
+ID :|width :2|height :4
+src :
+___________________
+ID :|width :300|height :13
+src :https://googleads.g.doubleclick.net/pagead/viewthroughconversion/979459899/?random=1449753187244&cv=8&fst=1449753187244&num=1&fmt=1&guid=ON&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=1&u_nmime=1&frm=0&url=http%3A//www.price.com.hk/
+___________________

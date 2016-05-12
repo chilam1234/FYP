@@ -1,0 +1,207 @@
+a tag
+taarget href: /
+img src: http://static.bbci.co.uk/frameworks/barlesque/3.2.4/orb/4/img/bbc-blocks-light.png|title :|width :84|height :24
+___________________
+taarget href: https://ssl.bbc.com/id/status
+img src: http://static.bbci.co.uk/id/0.32.25/img/bbcid_orb_signin_light.png|title :|width :18|height :18
+___________________
+taarget href: http://search.bbc.co.uk/search
+img src: http://static.bbci.co.uk/frameworks/barlesque/3.2.4/orb/4/img/orb-search-light.png|title :|width :18|height :18
+___________________
+taarget href: /weather/1880251?day=0
+img src: http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/29.gif|title :|width :|height :
+___________________
+taarget href: /weather/1880251?day=1
+img src: http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/29.gif|title :|width :|height :
+___________________
+taarget href: /weather/1880251?day=2
+img src: http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/29.gif|title :|width :|height :
+___________________
+taarget href: /weather/1880251?day=3
+img src: http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/29.gif|title :|width :|height :
+___________________
+Iframe
+ID :2dde6836-68e1-d95a-1afb-28870dde6cc3|width :0|height :0
+src :http://s.effectivemeasure.net/html/frame_2.3.3.html
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_11|width :1|height :1
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_11__hidden__|width :0|height :0
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_1|width :970|height :250
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_3|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_2|width :100%|height :36
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_6|width :88|height :31
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_4|width :300|height :251
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_7|width :88|height :31
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_0|width :976|height :400
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_8|width :88|height :31
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_5|width :300|height :251
+src :
+___________________
+ID :google_ads_iframe_/4817/bbccom.live.site.www/bbc_homepage_int_9|width :88|height :31
+src :
+___________________
+ID :|width :|height :
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+___________________
+ID :iPerceptionsFrame|width :|height :
+src :
+___________________
+Img
+img src: http://static.bbci.co.uk/frameworks/barlesque/3.2.4/orb/4/img/bbc-blocks-light.png|width :84|height :24
+___________________
+img src: http://static.bbci.co.uk/id/0.32.25/img/bbcid_orb_signin_light.png|width :18|height :18
+___________________
+img src: http://static.bbci.co.uk/frameworks/barlesque/3.2.4/orb/4/img/orb-search-light.png|width :18|height :18
+___________________
+img src: http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/657C/production/_87108952_hi030483446.jpg|width :|height :
+___________________
+img src: http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/1945/production/_87096460_ed89f5d3-85bd-463d-a6d7-67e53e5498fd.jpg|width :|height :
+___________________
+img src: http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/1587E/production/_87109188_mo_photoby_thomasskou_3.jpg|width :|height :
+___________________
+img src: http://ichef.bbci.co.uk/wwhp/144/ibroadcast/images/live/p0/3b/d3/p03bd3k8.jpg|width :|height :
+___________________
+img src: http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/CB3E/production/_87103025_87103024.jpg|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/29.gif|width :|height :
+___________________
+img src: http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/29.gif|width :|height :
+___________________
+img src: http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/29.gif|width :|height :
+___________________
+img src: http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/29.gif|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7|width :|height :
+___________________
+img src: http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/16F5F/production/_87074049_f3.jpg|width :|height :
+___________________
+img src: http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/83D9/production/_86835733_gettyimages-138039969.jpg|width :|height :
+___________________
+img src: http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/0B96/production/_87066920_532c982e-8bea-401a-acda-7c4f927ef586.jpg|width :|height :
+___________________
+img src: http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/6B63/production/_87019472_rs2435_luxsiyasivakumar-scr.jpg|width :|height :
+___________________
+img src: http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/97E3/production/_87038883_1e98c462-757a-4a7a-8991-49f9c5727446.jpg|width :|height :
+___________________
+img src: http://b.scorecardresearch.com/p?c1=2&c2=6035051&c4=www.bbc.com/|width :|height :
+___________________
+img src: //adadvisor.net/adscores/g.js?sid=9212244187&_kdpid=2111c0af-fc3a-446f-ab07-63aa74fbde8e|width :|height :
+___________________

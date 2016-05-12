@@ -1,0 +1,47 @@
+a tag
+taarget href: http://www.nytimes.com/
+img src: |title :|width :379|height :64
+___________________
+taarget href: http://www.nytimes.com/2015/12/21/world/middleeast/isis-recruitment-killer-hassan-aboud.html
+img src: http://static01.nyt.com/images/2015/12/19/world/21emir-web/21emir-web-largeHorizontal375.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/12/22/us/one-dead-and-over-30-injured-in-crash-on-vegas-strip.html
+img src: http://static01.nyt.com/images/2015/12/21/nytnow/21vegascrash/21vegascrash-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/12/21/world/asia/landslide-hits-southern-city-sending-hundreds-fleeing-china-reports.html
+img src: http://static01.nyt.com/images/2015/12/21/world/21LANDSLIDE/21LANDSLIDE-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/12/21/theater/review-a-fiddler-on-the-roof-revival-with-an-echo-of-modernity.html
+img src: http://static01.nyt.com/images/2015/12/21/arts/21FIDDLER-slide-95AU/21FIDDLER-slide-95AU-thumbStandard-v2.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/interactive/projects/cp/nfl-live/week-15-scores
+img src: http://static01.nyt.com/images/2015/12/21/sports/21convo-promo/21convo-promo-mediumFlexible177.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/12/20/opinion/sunday/no-justification-for-high-drug-prices.html
+img src: http://static01.nyt.com/images/2015/12/20/opinion/20sun2web/20sun2web-blogSmallThumb-v2.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/12/21/opinion/facing-down-nigerias-ghosts.html
+img src: http://static01.nyt.com/images/2015/12/21/opinion/21okoro-art/21okoro-art-blogSmallThumb.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/section/insider
+img src: |title :|width :65|height :20
+___________________
+taarget href: http://www.nytimes.com/crosswords
+img src: http://static01.nyt.com/images/crosswords/crosswords_30x30.png|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/crosswords
+img src: http://static01.nyt.com/images/crosswords/crosswords_30x30.png|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/12/20/realestate/restaurateur-mark-barak.html
+img src: http://static01.nyt.com/images/2015/12/20/realestate/20WHATILOVE-MARK-BARAK-slide-L17S/20WHATILOVE-MARK-BARAK-slide-L17S-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/12/20/realestate/recourse-for-blacklisted-tenants.html
+img src: http://static01.nyt.com/images/2015/12/20/realestate/20ASK/20ASK-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/
+img src: |title :|width :|height :
+___________________
+Iframe
+ID :|width :|height :
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+___________________

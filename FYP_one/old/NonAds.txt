@@ -1,0 +1,100 @@
+/13461;http://file.hkepc.com/2015/12/80x60/11201428681004679442.jpg;Samsung Gear VR 裝置香港發佈 Galaxy Studio 讓用家親身體驗臨場效果;80;60
+/13456;http://file.hkepc.com/2015/08/80x60/10190424641477102647.jpg;正式登陸 Android & iOS 系統 Microsoft Cortana 人工智能助手;80;60
+/13455;http://file.hkepc.com/2015/12/80x60/11190357371454302650.jpg;華潤創業旗下商店將全線支援 Tencent 微信支付殺入香港地區;80;60
+http://unwire.hk/2015/12/10/pixel-c-handson-keyboard-review/notebook/;http://cdn.unwire.hk/wp-content/uploads/2015/12/pixelc1-1085x466.png;;1085;466
+http://unwire.hk/2015/12/09/zenfone-zoom/mobile-phone/;http://cdn.unwire.hk/wp-content/uploads/2015/12/asuszenfonezoom-1085x466.png;;1085;466
+http://unwire.hk/2015/12/10/gx8-tells-you-how-to-focus/dc/;http://cdn.unwire.hk/wp-content/uploads/2015/12/unwire01_edit-1085x466.png;;1085;466
+http://unwire.hk/2015/12/07/vinnic-aa-aaa-battery/parts/;http://cdn.unwire.hk/wp-content/uploads/2015/11/bbb-1085x466.png;;1085;466
+http://unwire.hk/2015/12/02/michi-slim-12000mah/mobile-phone/;http://cdn.unwire.hk/wp-content/uploads/2015/09/IMG_85451-1085x466.jpg;;1085;466
+http://unwire.hk/2015/12/10/pixel-c-handson-keyboard-review/notebook/;http://cdn.unwire.hk/wp-content/uploads/2015/12/pixelc1-314x196.png;;314;196
+http://unwire.pro/2015/12/07/wagecan-bitcoin-debit-card/startup/;http://cdn.unwire.hk/wp-content/uploads/2015/12/wagecan002-314x196.jpg;;314;196
+http://unwire.la/sapp5eb;http://cdn.unwire.hk/wp-content/uploads/2015/11/2015_oct_samsung_uni_300x100px_v1.jpg;;300;100
+http://unwire.hk/category/xmasgift2015/;http://cdn.unwire.hk/wp-content/uploads/2015/12/xmasgift2.png;;300;100
+http://unwire.hk/2015/12/09/hkstp-neomechanics/people-interview/;http://cdn.unwire.hk/wp-content/uploads/2015/12/In-office-with-DUCR-191x127.png;;191;127
+http://unwire.hk/2015/12/01/studio-m3js/mobile-music/headphones/;http://cdn.unwire.hk/wp-content/uploads/2015/12/m3js2-191x127.png;;191;127
+http://unwire.hk/2015/11/28/mtrmalls/people-interview/;http://cdn.unwire.hk/wp-content/uploads/2015/11/DSC03415-191x127.jpg;;191;127
+http://unwire.hk/2015/11/19/mr-wally/people-interview/;http://cdn.unwire.hk/wp-content/uploads/2015/11/DSC03100-191x127.jpg;;191;127
+http://unwire.hk/2015/11/16/5-specialists-view-on-ipad-pro/top-news/;http://cdn.unwire.hk/wp-content/uploads/2015/11/ipadprofav-191x127.png;;191;127
+http://unwire.hk/2015/12/10/pixel-c-handson-keyboard-review/notebook/;http://cdn.unwire.hk/wp-content/uploads/2015/12/pixelc1-314x196.png;;314;196
+http://unwire.hk/2015/12/10/cy-leung/fun-tech/;http://cdn.unwire.hk/wp-content/uploads/2015/12/00178-314x196.jpg;;314;196         
+http://hk.jobsdb.com/en-hk/resources/workplace-survival-kit;http://hk.jobsdb.com/en-hk/wp-content/uploads/sites/2/2015/11/travel_280x180-e1449135687258-280x180.jpg;;280;180
+http://hk.jobsdb.com/en-hk/resources/jobsdb-highlights;http://hk.jobsdb.com/en-hk/wp-content/uploads/sites/2/2015/12/p1_280x180-280x180.png;;280;180
+http://hk.jobsdb.com/en-hk/resources/industry-focus;http://hk.jobsdb.com/en-hk/wp-content/uploads/sites/2/2015/11/DrNgai_revised_280x180-280x180.jpg;;280;180
+http://hk.jobsdb.com/en-hk/resources/job-hunters;http://hk.jobsdb.com/en-hk/wp-content/uploads/sites/2/2016/11/goodlook_280x180-280x180.jpg;;280;180          
+http://www.mediachinesegroup.com/htm/content.cfm?channel=main&lang=E;http://www.mingpao.com/image/btn_logo_mediachinese.gif;世界華文;92;75
+https://member.mingpao.com/cfm/Service.cfm;http://www.mingpao.com/image/menu1a_12.gif;;107;21
+http://news.mingpao.com/ins/即時新聞/web_tc/main;http://www.mingpao.com/image/news_inst_hd.gif;即時頭條;60;18
+http://news.mingpao.com/;http://www.mingpao.com/image/news_hd2.gif;明報新聞主頁;60;18
+http://ol.mingpao.com/php/showbiz1.php?page=1;http://www.mingpao.com/image/t_entheadline.gif;娛樂頭條;60;15
+http://ol.mingpao.com/php/showbiz2.php?subcate=latest&page=1;http://www.mingpao.com/image/t_ient.gif;即時娛樂;60;15
+http://www.mpfinance.com/;http://www.mingpao.com/image/t_finance.gif;財經;40;15
+http://ol.mingpao.com/php/showbiz1.php?page=1;http://www.mingpao.com/image/t_people.gif;人物;61;15
+http://ol.mingpao.com/php/celebrity1.php?page=1;http://www.mingpao.com/image/t_star.gif;星星專訪;61;15
+http://ol.mingpao.com/php/showbiz3.php?nodeid=1449742102609&subcate=latest&issue=20151210;http://www.mingpao.com/ftp/Mpc2/20151210/ed01/ED011210.jpg;熊黛林：你曬得我又曬得;100;100
+http://ol.mingpao.com/php/album1.php?&page=1&nodeid=1449662458479&subcate=showbiz&issue=20151209;http://www.mingpao.com/ftp/Mpc2/20151210/ed03/ED031210.jpg;6歲劉楚恬全球最年輕美女;100;100
+http://ol.mingpao.com/php/showbiz3.php?nodeid=1449599254001&subcate=news&issue=20151209;http://www.mingpao.com/ftp/Mpc2/20151209/ed02/ED02_100.jpg;[有片]莊思敏爆喊斥王宗堯;100;100 
+http://ol.mingpao.com/php/showbiz3.php?nodeid=1449737591206&subcate=latest&issue=20151210;http://www.mingpao.com/ftp/Mpc2/20151210/ed04/ED041210.jpg;徐榮B女演《愛．回家》;100;100
+http://ol.mingpao.com/php/showbiz3.php?nodeid=1449572884494&subcate=latest&issue=20151208;http://www.mingpao.com/ftp/Mpc2/20151208/vd04/ENT20151208_03_640x360.jpg;克勤唔覺崔健有惡意;124;94
+http://www.mingpaohealth.com/;http://www.mingpao.com/image/t_health.gif;健康;43;15
+http://news.mingpao.com/ins/即時新聞/web_tc/main;http://www.mingpao.com/image/news_instnews.gif;即時新聞;271;25
+http://news.mingpao.com/cfm/rss.cfm;http://www.mingpao.com/image/news_instnews_rss.jpg;RSS;63;25-       39
+/?app=view&no=363292;;;90;90
+/?app=view&no=362941;;;90;90
+/?app=view&no=363249;;;90;90
+/?app=view&no=363354;;;90;90
+/?app=view&no=363401;;;90;90
+/?app=view&no=363387;;;90;90
+http://www.ettoday.net/dalemon/;http://cache.ettoday.net/style/web_2011/images/img-logo/logo-04.png;;100;45
+http://travel.ettoday.net/;http://cache.ettoday.net/style/web_2011/images/img-logo/logo-05.png;;100;45
+http://sports.ettoday.net/;http://cache.ettoday.net/style/web_2011/images/img-logo/logo-06.png;;100;45
+http://star.ettoday.net/;http://cache.ettoday.net/style/web_2011/images/img-logo/logo-07.png;;100;45
+http://movies.ettoday.net/;http://cache.ettoday.net/style/web_2011/images/img-logo/logo-08.png;;100;45
+http://game.ettoday.net/;http://cache.ettoday.net/style/web_2011/images/img-logo/logo-09.png;;100;45
+http://fashion.ettoday.net/;http://cache.ettoday.net/style/web_2011/images/img-logo/logo-11.png;;100;45
+http://www.ettoday.net/news/20111027/3714.htm;http://static.ettoday.net/images/2/b2904.jpg;;100;75
+http://www.ettoday.net/news/20111026/3554.htm;http://cache.ettoday.net/images/no-photo.jpg;;100;75
+http://www.ettoday.net/news/20111020/2374.htm;http://static.ettoday.net/images/2/b2716.jpg;;100;75
+http://www.ettoday.net/news/20111011/973.htm;http://cache.ettoday.net/images/no-photo.jpg;;100;75
+http://www.ettoday.net/news/20111007/511.htm;http://cache.ettoday.net/images/no-photo.jpg;;100;75
+http://msg.ettoday.net/rd.php?id=4102;http://www.ettoday.net/img/paste/32/32328.jpg;;75;75
+http://msg.ettoday.net/rd.php?id=4132;http://www.ettoday.net/img/paste/29/29417.jpg;;75;75
+http://msg.ettoday.net/rd.php?id=4037;http://www.ettoday.net/img/paste/13/13221.jpg;;75;75
+http://msg.ettoday.net/rd.php?id=2991;http://www.ettoday.net/img/paste/12/12199.jpg;;75;75
+;;300;250;http://www.ettoday.net/et_native.html?aid=300250
+;;100%;60px;http://www.ettoday.net/et_native.html?aid=pc_bottom
+#;http://cache.ettoday.net/mobile_2011/images/gototop.png;;50;50
+;;280;23;http://home.on.cc/adv/web/corp/js/searchbox_yahoo.html?gfghf=gfghdf&tsn_search
+http://www.gamer.com.tw;http://i2.bahamut.com.tw/baha_logo5.png;;156;107
+/mobile/index.htm;http://www.openrice.com/info/cached/OR_qrcode.jpg;;90;90
+https://itunes.apple.com/us/app/id310663323?mt=8;http://www.openrice.com/info/cached/apple_app2.png;iPhone App;132;38
+http://www.windowsphone.com/zh-hk/store/app/openrice-%E9%96%8B%E9%A3%AF%E5%96%87/9fcc2e2f-b2ca-40f3-9eae-75f791f329c6;http://www.openrice.com/info/cached/window_app2.png;;132;38
+https://play.google.com/store/apps/details?id=com.openrice.android;http://www.openrice.com/info/cached/google_app2.png;Android App;132;38
+http://appworld.blackberry.com/webstore/content/29779891/?countrycode=HK;http://www.openrice.com/info/cached/blackberry_app2.png;;132;38
+http://www.opensnap.com/zh-hk/hongkong;http://www.openrice.com/info/cached/QRcodeRGB.jpg;;90;90
+http://itunes.apple.com/hk/app/id806095727?mt=8;http://www.openrice.com/info/cached/apple_app2.png;iPhone App;132;38
+https://play.google.com/store/apps/details?id=com.openrice.snap;http://www.openrice.com/info/cached/google_app2.png;Android App;132;38
+http://www.openrice.com/info/Love/index.html;http://www.openrice.com/info/cached/or_love.png;愛開飯;198;39
+http://unwire.hk/2015/12/10/pixel-c-handson-keyboard-review/notebook/;http://cdn.unwire.hk/wp-content/uploads/2015/12/pixelc1-1085x466.png;;1085;466
+http://unwire.hk/2015/12/09/zenfone-zoom/mobile-phone/;http://cdn.unwire.hk/wp-content/uploads/2015/12/asuszenfonezoom-1085x466.png;;1085;466
+http://unwire.hk/2015/12/10/gx8-tells-you-how-to-focus/dc/;http://cdn.unwire.hk/wp-content/uploads/2015/12/unwire01_edit-1085x466.png;;1085;466
+http://unwire.hk/2015/12/10/pixel-c-handson-keyboard-review/notebook/;http://cdn.unwire.hk/wp-content/uploads/2015/12/pixelc1-314x196.png;;314;196
+http://unwire.pro/2015/12/07/wagecan-bitcoin-debit-card/startup/;http://cdn.unwire.hk/wp-content/uploads/2015/12/wagecan002-314x196.jpg;;314;196
+http://unwire.la/sapp5eb;http://cdn.unwire.hk/wp-content/uploads/2015/11/2015_oct_samsung_uni_300x100px_v1.jpg;;300;100
+http://unwire.hk/2015/12/10/why-iphone-6s-smart-battery-case-uses-such-design/mobile-phone/phone-parts/;http://cdn.unwire.hk/wp-content/uploads/2015/12/unwire16-314x196.jpg;;314;196
+http://unwire.hk/2015/12/10/xbox-one-the-mail-kinect-fitting-room/game-channel/;http://cdn.unwire.hk/wp-content/uploads/2015/12/1210-1a-314x196.jpg;;314;196
+http://unwire.hk/2015/12/10/mozilla-end-firefox-os-development/mobile-phone/;http://cdn.unwire.hk/wp-content/uploads/2015/12/1210-2a-314x196.jpg;;314;196
+http://unwire.hk/2015/12/09/panasonic-eh-st50/pretty01/;http://cdn.unwire.hk/wp-content/uploads/2015/12/DSC051201-320x210.jpg;;320;210
+http://unwire.hk/2015/12/10/the-moley-robotic-kitchen/wireless-home/;http://cdn.unwire.hk/wp-content/uploads/2015/12/00177-320x210.jpg;;320;210
+http://unwire.hk/2015/12/09/pandora-disneyland/hottopic/;http://cdn.unwire.hk/wp-content/uploads/2015/12/DSC06365-320x210.jpg;;320;210
+http://www.nextdigital.com.hk/investor;;;145;20
+http://travel.mingpao.com/;http://www.mingpao.com/image/t_travel.gif;旅遊;43;15
+http://travel.mingpao.com/cfm/mem1.cfm;http://www.mingpao.com/image/t_album.gif;讀者相片;61;15
+http://news.mingpao.com/ins/即時新聞/web_tc/main;http://www.mingpao.com/image/news_instnews.gif;即時新聞;271;25
+http://news.mingpao.com/cfm/rss.cfm;http://www.mingpao.com/image/news_instnews_rss.jpg;RSS;63;25
+http://news.mingpao.com/ins/圖片看世界-新聞圖輯/web_tc/photo3/latest;http://www.mingpao.com/image/btn_more_photo.gif;更多新聞圖輯;94;13
+javascript:document.forms['FoodSearch'].submit();;http://www.mingpao.com/image/searchbox_btn0.gif;搜尋;83;27
+http://ol.mingpao.com/php/showbiz3.php?nodeid=1449663664189&subcate=latest&issue=20151209;http://www.mingpao.com/ftp/Mpc2/20151209/vd05/ENT20151209_03_640x360.jpg;Miranda Kerr全裸影雜誌;124;94
+http://ol.mingpao.com/php/celebrity1.php?page=1;http://www.mingpao.com/image/t_star.gif;星星專訪;61;15
+http://www.eyny.com/video.php?mod=video&vid=1253564;http://a202.static-file.com/shared/upload/video/201511/20151121085242_3276.jpg;;120;90
+http://www.eyny.com/video.php?mod=video&vid=1253963;http://a407.static-file.com/shared/upload/video/201511/20151122060802_5456.jpg;;120;90
+http://www.eyny.com/video.php?mod=video&vid=1251090;http://a207.static-file.com/shared/upload/video/201511/20151113032535_4569.jpg;;120;90

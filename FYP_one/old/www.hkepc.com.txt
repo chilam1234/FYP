@@ -1,0 +1,233 @@
+a tag
+taarget href: /lang
+img src: |title :|width :|height :
+___________________
+taarget href: /feed
+img src: |title :|width :|height :
+___________________
+taarget href: #
+img src: |title :|width :|height :
+___________________
+taarget href: http://www.weibo.com/hkepc
+img src: |title :|width :|height :
+___________________
+taarget href: http://facebook.hkepc.com
+img src: |title :|width :|height :
+___________________
+taarget href: /13461
+img src: http://file.hkepc.com/2015/12/80x60/11201428681004679442.jpg|title :Samsung Gear VR 裝置香港發佈 Galaxy Studio 讓用家親身體驗臨場效果|width :80|height :60
+___________________
+taarget href: /13456
+img src: http://file.hkepc.com/2015/08/80x60/10190424641477102647.jpg|title :正式登陸 Android & iOS 系統 Microsoft Cortana 人工智能助手|width :80|height :60
+___________________
+taarget href: /13455
+img src: http://file.hkepc.com/2015/12/80x60/11190357371454302650.jpg|title :華潤創業旗下商店將全線支援 Tencent 微信支付殺入香港地區|width :80|height :60
+___________________
+taarget href: /13439
+img src: http://file.hkepc.com/2015/12/450x338/09192649091743492753.jpg|title :隨時隨地管理家中/辦公室 Router  Linksys 獨家 Smart WiFi 應用程式|width :|height :
+___________________
+taarget href: /13369
+img src: http://file.hkepc.com/2015/11/320x240/1912415414618508199.jpg|title :馬會推動「友心站」社區服務 免費流動裝置充電、雨傘外借、WiFi 上網|width :|height :
+___________________
+taarget href: /13377
+img src: http://file.hkepc.com/2015/11/80x60/20225937771294093978.jpg|title :QTS-Ubuntu 雙系統、重新定義儲存 QNAP TS-x53A 發佈會節錄|width :|height :
+___________________
+taarget href: /13305
+img src: http://file.hkepc.com/2015/11/80x60/0317323858190160550.jpg|title :Hydro-G 電源供應器生產過程 FSP 中國深圳世界級工廠曝光 |width :|height :
+___________________
+taarget href: /13146
+img src: http://file.hkepc.com/2015/09/80x60/1616372141972416044.png|title :全新 DSM 6.0 系統、發揮更強功能 Synology 2016 Taipei 台北站節錄|width :|height :
+___________________
+taarget href: /13461
+img src: http://file.hkepc.com/2015/12/80x60/11201428681004679442.jpg|title :Samsung Gear VR 裝置香港發佈 Galaxy Studio 讓用家親身體驗臨場效果|width :|height :
+___________________
+taarget href: /13456
+img src: http://file.hkepc.com/2015/08/80x60/10190424641477102647.jpg|title :正式登陸 Android & iOS 系統 Microsoft Cortana 人工智能助手|width :|height :
+___________________
+taarget href: /13455
+img src: http://file.hkepc.com/2015/12/80x60/11190357371454302650.jpg|title :華潤創業旗下商店將全線支援 Tencent 微信支付殺入香港地區|width :|height :
+___________________
+taarget href: /13459
+img src: http://file.hkepc.com/2015/12/80x60/11170440801981685376.jpeg|title :開發神經網絡 促進人工智能演化 Facebook 「Big Sur」神經網絡硬件|width :|height :
+___________________
+taarget href: /13450
+img src: http://file.hkepc.com/2015/12/80x60/10144521211373083204.jpg|title :GALAX 影馳 & NVIDIA 嘉年華 2015 GEC 電競對決、GOC 超頻比賽同場較量|width :|height :
+___________________
+taarget href: /13451
+img src: http://file.hkepc.com/2015/09/80x60/30142919591264853833.jpg|title :USB TypeC、2K 屏 最新Android 系統 Google Pixel C 平板電腦登陸香港|width :|height :
+___________________
+taarget href: /13448
+img src: http://file.hkepc.com/2015/12/80x60/0918030484316797936.jpg|title :正式退出流動系統市場 轉向物聯網發展  FireFox OS 系統不敵市場競爭|width :|height :
+___________________
+taarget href: /13445
+img src: http://file.hkepc.com/2015/12/80x60/09155859392145647948.jpg|title :修正大量常用程式問題 Apple iOS 9.2系統更新|width :|height :
+___________________
+taarget href: /13441
+img src: http://file.hkepc.com/2015/12/160x120/08202557571658910795.jpg|title :攻打廉價市場、擁550MB/s讀取效能 ADATA 推出 SP550 系列 SSD |width :|height :
+___________________
+taarget href: /13443
+img src: http://file.hkepc.com/2015/12/160x120/08144254741254258644.jpg|title :11W/mK 驚異傳導率!? CM MasterGel Maker Nano散熱膏|width :|height :
+___________________
+taarget href: /13426
+img src: http://file.hkepc.com/2015/12/160x120/0317105252800054334.jpg|title :ROG ITX 板皇登場 ASUS ROG Maximus VIII Impact|width :|height :
+___________________
+taarget href: /13414
+img src: http://file.hkepc.com/2015/12/160x120/0119005959291860414.jpg|title :防水．防震．高速 Kingston DataTraveler R3.0 G2 隨身碟|width :|height :
+___________________
+taarget href: /13415
+img src: http://file.hkepc.com/2015/12/160x120/02180810901955568599.jpg|title :聯同世界頂級專業遊戲團隊合作設計 CORSAIR 全新 KATAR 電競滑鼠|width :|height :
+___________________
+taarget href: /13398
+img src: http://file.hkepc.com/2015/11/160x120/2619033919289598592.jpg|title :SSD．韓流襲港 KLEVV URBANE 240GB SATA SSD|width :|height :
+___________________
+taarget href: /13368
+img src: http://file.hkepc.com/2015/11/160x120/25173220401016634043.jpg|title :LINKSYS RE6500 座�^式網路擴展器 專門強化WiFi 訊號 無線多功能傳輸一機辦妥|width :|height :
+___________________
+taarget href: /13390
+img src: http://file.hkepc.com/2015/11/160x120/24163924641941376299.jpg|title :LED 光效與散熱工藝結合 KLEVV CRAS 系列 DDR4-3000 16GB Kit|width :|height :
+___________________
+taarget href: /12782
+img src: http://file.hkepc.com/2015/06/80x60/2414592363443698110.jpg|title :震撼視覺體驗 達 105 吋特大屏幕 LG 推出全新 Curved UHD/4K OLED TV |width :|height :
+___________________
+taarget href: /12640
+img src: http://file.hkepc.com/2015/05/80x60/1319283111170732272.jpg|title :HK$4,398 2K屏幕、八核3GB HTC ONE E9+ Dual SIM 智能手機|width :|height :
+___________________
+taarget href: /12619
+img src: http://file.hkepc.com/2015/05/80x60/07132728481112458446.jpg|title :SPEN+8吋/9.7吋屏幕 娛樂工作均合適 Samaung Galaxy Tab A 平板電腦|width :|height :
+___________________
+taarget href: /12608
+img src: http://file.hkepc.com/2015/05/80x60/0515134929110666972.jpg|title :中階市場定位 支援5模16頻中港4G 小米4i 香港地區進行預售|width :|height :
+___________________
+taarget href: /12594
+img src: http://file.hkepc.com/2015/04/80x60/29192945852053513831.gif|title :內建規格平衡 定價親民 Nokia N1 平板電腦台灣發佈|width :|height :
+___________________
+taarget href: /12578
+img src: http://file.hkepc.com/2015/04/80x60/27183751716256207.png|title :備8吋及9.7 吋屏幕 入門平板配手寫筆 Samsung Galaxy Tab A 平板台灣發佈|width :|height :
+___________________
+taarget href: /12572
+img src: http://file.hkepc.com/2013/08/80x60/16170858381930828658.jpg|title :配備1300前置鏡頭吸引用家 HTC Butterfly 3 傳聞月內推出|width :|height :
+___________________
+taarget href: /13449
+img src: http://file.hkepc.com/2015/12/80x60/10162616762052804772.jpg|title :上台買機均有優惠 最高回贈$1200 CMHK 網店 12月優惠活動|width :|height :
+___________________
+taarget href: /13446
+img src: http://file.hkepc.com/2015/12/80x60/0913351717667576389.jpg|title :多款貨品將低至3折起發售 Magic-Pro 聖誕新年感謝祭|width :|height :
+___________________
+taarget href: /13434
+img src: http://file.hkepc.com/2015/12/80x60/04201656161877737700.jpg|title :Cooler Master「聖誕至激賞」第一回 送你 Lego 星戰系列禮品|width :|height :
+___________________
+taarget href: /13420
+img src: http://file.hkepc.com/2015/12/80x60/0217263292612734874.jpg|title :12 顆拇指按鍵 MMO 遊戲必備利器 Razer Naga Chroma 遊戲滑鼠|width :|height :
+___________________
+taarget href: /13428
+img src: http://file.hkepc.com/2015/12/80x60/03153057571502556055.jpg|title :Ducky 「Secret」滑鼠正式到港 首批贈送 Ducky Flipper Extra 滑鼠墊乙塊|width :|height :
+___________________
+taarget href: /13421
+img src: http://file.hkepc.com/2015/12/80x60/0219341050784621045.jpg|title :玩家們最喜愛遊戲整合方案 Razer《Call of Duty:Black Ops III》週邊產品|width :|height :
+___________________
+taarget href: /13418
+img src: http://file.hkepc.com/2015/12/80x60/02140926661825468393.jpg|title :六千萬次按鍵壽命 獨立按鍵發光模式 Razer 推出 BlackWidow Ultimate 2016 版本|width :|height :
+___________________
+taarget href: /13458
+img src: http://file.hkepc.com/2015/12/80x60/11161643031494287658.jpg|title :FELTON 聖誕優惠第一波 ASRock 主機板配指定產品即減|width :|height :
+___________________
+taarget href: /13447
+img src: http://file.hkepc.com/2015/12/80x60/09153451911882010484.png|title :Inno3D /iChill 冬日聖誕優惠 凡購指定產品、即可以 $49 換購 F310 手掣|width :|height :
+___________________
+taarget href: /13442
+img src: http://file.hkepc.com/2015/12/80x60/08140903431500596940.jpg|title :Inno3D 將於11至13日舉行 RoadShow 即場體驗 3D Printer 運作及控制技術|width :|height :
+___________________
+taarget href: /13404
+img src: http://file.hkepc.com/2015/11/80x60/2917574565542668326.jpg|title :「歡樂耶誕月 FSP 送好禮」 凡購 Hydro G 系列電源器即送電競鼠墊|width :|height :
+___________________
+taarget href: /13367
+img src: http://file.hkepc.com/2015/11/80x60/181959296997422217.jpg|title :「Razer Serval」Android 專用遊戲控制器 限時驚喜優惠 HK$499 發售|width :|height :
+___________________
+taarget href: /13274
+img src: http://file.hkepc.com/2015/10/80x60/1920514000460067135.jpg|title :Attack 2、700K鍵盤配搭3D Rage耳機 COUGAR X CREATIVE優惠組合登場|width :|height :
+___________________
+taarget href: /13230
+img src: http://file.hkepc.com/2015/10/80x60/0916583111230802731.jpg|title :QNAP HS-210 時尚、無風扇、零震動設計 家庭劇院及影音娛樂愛好者最佳配備|width :|height :
+___________________
+taarget href: /13369
+img src: http://file.hkepc.com/2015/11/80x60/1912415414618508199.jpg|title :馬會推動「友心站」社區服務 免費流動裝置充電、雨傘外借、WiFi 上網|width :|height :
+___________________
+taarget href: /13392
+img src: http://file.hkepc.com/2015/11/80x60/2316154343674996582.jpg|title :Sony Playstation 4 銷售創佳績 憑藉高質遊戲及新增互聯網功能吸引用家|width :|height :
+___________________
+taarget href: /13379
+img src: http://file.hkepc.com/2015/11/80x60/2019252525479491992.jpg|title :情侶分手後可能會用到的功能 Facebook 關心你感情生活|width :|height :
+___________________
+taarget href: /13366
+img src: http://file.hkepc.com/2013/01/80x60/18150756761933763879.jpg|title :恐嚇並誤導轉用其他電訊商服務 慎防假冒「3香港」 職員來電|width :|height :
+___________________
+taarget href: /13252
+img src: http://file.hkepc.com/2015/10/80x60/14142612721052757456.jpg|title :Minions Paradise 正式登陸流動平台 「Bi-do」迷你兵菲爾闖禍 將功贖罪等您幫忙|width :|height :
+___________________
+taarget href: /13178
+img src: http://file.hkepc.com/2015/09/80x60/23202838181721454702.jpg|title :推動本地設計 成就創作夢 「 Lenovo 機身創意設計比賽 」|width :|height :
+___________________
+taarget href: /13043
+img src: http://file.hkepc.com/2015/08/80x60/20181922621593399935.jpg|title :ASUS 為注重健康的您量身訂造 腦場電腦節首日 VivoWatch 正式開賣|width :|height :
+___________________
+Iframe
+ID :af3d16f6|width :700|height :91
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=1&FH=91&FW=700&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE
+___________________
+ID :af3d16f6_1|width :755|height :98
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=1&FH=98&FW=755&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=1
+___________________
+ID :af3d16f6_2|width :755|height :98
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=1&FH=98&FW=755&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=2
+___________________
+ID :af3d16f6_3|width :755|height :98
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=1&FH=98&FW=755&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=3
+___________________
+ID :af3d16f6_4|width :755|height :98
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=1&FH=98&FW=755&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=4
+___________________
+ID :a6217360_1|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=1
+___________________
+ID :a6217360_2|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=2
+___________________
+ID :a6217360_3|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=3
+___________________
+ID :a6217360_4|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=4
+___________________
+ID :a6217360_5|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=5
+___________________
+ID :a6217360_6|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=6
+___________________
+ID :a6217360_7|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=7
+___________________
+ID :a6217360_8|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=8
+___________________
+ID :a6217360_9|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=9
+___________________
+ID :a6217360_10|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=10
+___________________
+ID :a6217360_11|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=11
+___________________
+ID :a6217360_12|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=12
+___________________
+ID :a6217360_13|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=13
+___________________
+ID :a6217360_14|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=14
+___________________
+ID :a6217360_15|width :200|height :250
+src :http://abc.hkepc.com/www/d/dafr.php?zoneid=2&FH=250&FW=200&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE&rand_id=15
+___________________

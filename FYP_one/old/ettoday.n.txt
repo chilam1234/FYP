@@ -1,0 +1,149 @@
+a tag
+taarget href: http://www.ettoday.net
+img src: http://static.ettoday.net/web_2011/images/logo_ettoday.gif|title :|width :300|height :70
+___________________
+taarget href: http://ad.ettoday.net/adclick.php?bid=all_header_250x50&bannerid=19070
+img src: http://cdn1.ettoday.net/banners/19/19070-1.gif|title :|width :250|height :50
+___________________
+taarget href: javascript:;
+img src: http://cache.ettoday.net/style/web_2011/images/img-logo/logo-01.png|title :|width :|height :
+___________________
+taarget href: javascript:;
+img src: http://cache.ettoday.net/style/web_2011/images/img-logo/logo-02.png|title :|width :|height :
+___________________
+taarget href: javascript:;
+img src: http://cache.ettoday.net/style/web_2011/images/img-logo/logo-03.png|title :|width :|height :
+___________________
+taarget href: http://www.ettoday.net/dalemon/
+img src: http://cache.ettoday.net/style/web_2011/images/img-logo/logo-04.png|title :|width :100|height :45
+___________________
+taarget href: http://travel.ettoday.net/
+img src: http://cache.ettoday.net/style/web_2011/images/img-logo/logo-05.png|title :|width :100|height :45
+___________________
+taarget href: http://sports.ettoday.net/
+img src: http://cache.ettoday.net/style/web_2011/images/img-logo/logo-06.png|title :|width :100|height :45
+___________________
+taarget href: http://star.ettoday.net/
+img src: http://cache.ettoday.net/style/web_2011/images/img-logo/logo-07.png|title :|width :100|height :45
+___________________
+taarget href: http://movies.ettoday.net/
+img src: http://cache.ettoday.net/style/web_2011/images/img-logo/logo-08.png|title :|width :100|height :45
+___________________
+taarget href: http://game.ettoday.net/
+img src: http://cache.ettoday.net/style/web_2011/images/img-logo/logo-09.png|title :|width :100|height :45
+___________________
+taarget href: http://fashion.ettoday.net/
+img src: http://cache.ettoday.net/style/web_2011/images/img-logo/logo-11.png|title :|width :100|height :45
+___________________
+taarget href: javascript:void(0)
+img src: http://cache.ettoday.net/style/web_2011/images/printer.png|title :|width :55|height :65
+___________________
+taarget href: http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.ettoday.net%2Fnews%2F20151210%2F611400.htm&media=http%3A%2F%2Fstatic.ettoday.net%2Fimages%2F1122%2Fd1122133.jpg&description=%E7%B6%BD%E8%99%9F%E3%80%8C%E5%A8%81%E4%BA%AC%E5%B0%8F%E6%B2%88%E3%80%8D%E7%9A%84%E5%A8%81%E4%BA%AC%E9%9B%86%E5%9C%98%E4%B8%BB%E5%B8%AD%E6%B2%88%E6%85%B6%E4%BA%AC10%E6%97%A5%E5%90%91%E5%8F%B0%E5%8C%97%E5%9C%B0%E6%96%B9%E6%B3%95%E9%99%A2%E6%B0%91%E4%BA%8B%E5%BA%AD%E6%8F%90%E8%B5%B7%E5%91%8A%E8%A8%B4%EF%BC%8C%E6%8C%87%E6%8E%A7%E5%8F%B0%E5%8C%97%E5%B8%82%E5%89%8D%E5%B8%82%E9%95%B7%E9%83%9D%E9%BE%8D%E6%96%8C%E5%9C%A8%E5%BB%A3%E6%92%AD%E7%AF%80%E7%9B%AE%E4%B8%8A%E5%85%AC%E9%96%8B%E5%BD%B1%E5%B0%84%E4%B8%AD%E8%8F%AF%E9%9B%99%E5%AD%90%E6%98%9F%E9%96%8B%E7%99%BC%E5%9C%98%E9%9A%8A%E8%B2%A1%E5%8A%9B%E4%B8%8D%E8%B6%B3%EF%BC%8C%E7%AD%89%E5%90%8C%E4%BE%B5%E5%AE%B3%E5%85%B6%E5%80%8B%E4%BA%BA%E5%90%8D%E8%AD%BD%EF%BC%8C%E5%9B%A0%E6%AD%A4%E6%89%93%E7%AE%97%E5%90%91%E9%83%9D%E9%BE%8D%E6%96%8C%E8%AB%8B%E6%B1%82%E6%90%8D%E5%AE%B3%E8%B3%A0%E5%84%9F%E6%96%B0%E5%8F%B0%E5%B9%A3300%E8%90%AC%E5%85%83%EF%BC%8C%E4%B8%A6%E8%A6%81%E6%B1%82%E5%B0%8D%E6%96%B9%E7%99%BB%E5%A0%B1%E9%81%93%E6%AD%89%E3%80%82
+img src: |title :Pin It|width :|height :
+___________________
+taarget href: http://www.ettoday.net
+img src: http://www.ettoday.net/events/_demo/news-express/images/ettoday-119x34.gif|title :|width :119|height :34
+___________________
+taarget href: http://www.ettoday.net/news/20111027/3714.htm
+img src: http://static.ettoday.net/images/2/b2904.jpg|title :|width :100|height :75
+___________________
+taarget href: http://www.ettoday.net/news/20111026/3554.htm
+img src: http://cache.ettoday.net/images/no-photo.jpg|title :|width :100|height :75
+___________________
+taarget href: http://www.ettoday.net/news/20111020/2374.htm
+img src: http://static.ettoday.net/images/2/b2716.jpg|title :|width :100|height :75
+___________________
+taarget href: http://www.ettoday.net/news/20111011/973.htm
+img src: http://cache.ettoday.net/images/no-photo.jpg|title :|width :100|height :75
+___________________
+taarget href: http://www.ettoday.net/news/20111007/511.htm
+img src: http://cache.ettoday.net/images/no-photo.jpg|title :|width :100|height :75
+___________________
+taarget href: http://msg.ettoday.net/rd.php?id=4102
+img src: http://www.ettoday.net/img/paste/32/32328.jpg|title :|width :75|height :75
+___________________
+taarget href: http://msg.ettoday.net/rd.php?id=4132
+img src: http://www.ettoday.net/img/paste/29/29417.jpg|title :|width :75|height :75
+___________________
+taarget href: http://msg.ettoday.net/rd.php?id=4037
+img src: http://www.ettoday.net/img/paste/13/13221.jpg|title :|width :75|height :75
+___________________
+taarget href: http://msg.ettoday.net/rd.php?id=2991
+img src: http://www.ettoday.net/img/paste/12/12199.jpg|title :|width :75|height :75
+___________________
+taarget href: #
+img src: http://cache.ettoday.net/mobile_2011/images/gototop.png|title :|width :50|height :50
+___________________
+Iframe
+ID :|width :|height :
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+___________________
+ID :aswift_0|width :970|height :250
+src :
+___________________
+ID :I0_1449746569296|width :100%|height :
+src :https://apis.google.com/se/0/_/+1/sharebutton?plusShare=true&usegapi=1&action=share&annotation=vertical-bubble&height=60&hl=zh-TW&origin=http%3A%2F%2Fwww.ettoday.net&url=http%3A%2F%2Fwww.ettoday.net%2Fnews%2F20151210%2F611400.htm&gsrc=3p&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.zh_HK.0pmSVf04j5g.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAGLTcCMMyTzP6SLtefm5U0aIzeK3MrsvFg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I0_1449746569296&parent=http%3A%2F%2Fwww.ettoday.net&pfname=&rpctoken=19120185
+___________________
+ID :aswift_1|width :650|height :81
+src :
+___________________
+ID :|width :648|height :280
+src :http://www.ettoday.net/data/news-express-2.php?width=650&height=280&title=1&news=5&theme=light&content=all&border=#cccccc
+___________________
+ID :aswift_2|width :300|height :250
+src :
+___________________
+ID :aswift_3|width :300|height :250
+src :
+___________________
+ID :aswift_4|width :670|height :320
+src :
+___________________
+ID :aswift_5|width :300|height :250
+src :
+___________________
+ID :aswift_6|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_middle_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-1&p=http%3A//www.ettoday.net
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_middle_0__hidden__|width :0|height :0
+src :
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_2_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-2&p=http%3A//www.ettoday.net
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_2_0__hidden__|width :0|height :0
+src :
+___________________
+ID :aswift_7|width :300|height :600
+src :
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_3_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-3&p=http%3A//www.ettoday.net
+___________________
+ID :google_ads_iframe_/12656948/allsite_300x250_3_0__hidden__|width :0|height :0
+src :
+___________________
+ID :|width :300|height :250
+src :https://ad.doubleclick.net/ddm/adi/N1405.165020.HK.YAHOO.COM/B8799402.119036747;sz=300x250;dcopt=rcl;mtfIFrameRequest=false;click=https://na.ads.yahoo.com/yax/clk?sn%3Dc47786e6d0b1e19e88f4f6ce9664cec95af6366b%26es%3DBxBJtDXRVIMua6rTVmjzwqEjQXEcUisNKKLmepTD3r7Z1xgaIkyD4OIp2pZjHlwRx4x6DDoNqrVWJ6fDEF1YrT7ufHpgoVkCtNbn8hKdRlqk_g2_HwBB_L28rEzzeyTJq3eYVOQTiTiD3FNorZgMs6amC7nwdVje106P77N5oy5PpvhwFeDUsvzQ9HwBJPI9ag.h_VqN6yHxVD3NW8o9zI0kSrHfRXlFo2BUl_l6JNssloq7.WqKScVApHS1snQm1U4hui0S4VsJRd541hT87C2DPCqgsRGxvtgPUJfSGlTlRIqdCJiRONieHMJZLfGPVyuwYiIFk8egM7BUq3Gh.BWLSv45kPnh8.kNj0Oh6pYpniA.sU8eDuI-%26ve%3D2%26ty%3D0%26url%3Dhttp://pr.ybp.yahoo.com/cj/cd/K-k7D20zQVigJijHHRw7tEajZ02qzyXLVovb3BsY20wp2FEy6QbNTe-Y4u1fHxhcB0MFJylmBGYwIEopB4QDvKDUCTz0B7ryR0WHmSW6PtAIaCi8ukWMsxcJDOVZhCkA/rurl/;ord=8164484330328422197?
+___________________
+ID :|width :300|height :250
+src :http://www.ettoday.net/et_native.html?aid=300250
+___________________
+ID :|width :300|height :250
+src :https://ad.doubleclick.net/ddm/adi/N1405.165020.HK.YAHOO.COM/B8799402.119036747;sz=300x250;dcopt=rcl;mtfIFrameRequest=false;click=https://na.ads.yahoo.com/yax/clk?sn%3D08dd4f27658e50de870936012b5a8f8c3a44da90%26es%3D6gVFAwbRVIN4UG3G6ejKkImwhCgslX2qZa7PKANRfXq1NvkP59.e87myuuHiGUVEYw5Fl8sv8HGdMV5wuDN4Q41wnWlulxfAtmS01QlMh5nmhWtDs7VqBpPbA9Z44p9e8RNSi6hotMvpP8xUb5bg5WODiNxTfUvubqLwbVP7JiSjOrCe5htWORi02meHQUxeFVpOp68rI4ZtcmlCVcyTEZE5SdCePf7XoN39E4AQRY8ZPJ0wDP8ViB1TmPKj3OfbV5XXULxm_nE8LVqoMhcy0rLcDcmWvg8iga28SatD7xI4AUNp0Wse7QvcJxnx8MAszFyWKDYxcGlnup3.87e5gE6aF7d1MueQvagnHyExf4LFXxBZgAGxctw-%26ve%3D2%26ty%3D0%26url%3Dhttp://pr.ybp.yahoo.com/cj/cd/zCxdkxXk0dYfMTcqN0j25rK5MUZ8b6cwTw-h4hDZ9fSU4aY6YedwVObhAib8lqdcntCOruyDhdvUQWSYDd_wypLkatJbr88iNeVAau_hOLdN5AWzarxFFRFprbJ892UH/rurl/;ord=3232488921938386855?
+___________________
+ID :aswift_8|width :300|height :600
+src :
+___________________
+ID :|width :100%|height :60px
+src :http://www.ettoday.net/et_native.html?aid=pc_bottom
+___________________
+ID :aswift_9|width :970|height :90
+src :
+___________________
+ID :oauth2relay1991640112|width :|height :
+src :https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Fwww.ettoday.net#rpctoken=817438335&forcesecure=1
+___________________

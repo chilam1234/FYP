@@ -1,0 +1,98 @@
+a tag
+taarget href: /
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19091/自從知道日本女生「下雪穿短裙的祕密」後，我就決定要在這個冬天脫胎換骨了！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19141/女學生痛毆唐氏症同學還辯稱「是他要我打的」，超拙劣的謊言讓網友都很叫她快去洗洗腦袋！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19114/當你看完這群喇嘛5天內在這張紙上做了什麼，你就會開始懷疑他們是不是達文西轉世了。
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19116/38種「雖然完全沒人相信」卻真實存在世界上的生物。
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19120/他們用讀唇語的方式告訴爸媽「你們要當祖父母了」，爸媽猜中時的反應足夠讓人3天笑不停！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19119/這個女孩認為只要節食減肥「一週不吃不喝」就能受人歡迎，但大家看到她卻都嚇到腳軟了…
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19099/德國人竟然只用2天的時間蓋成這樣一棟豪宅，施工過程比我們玩積木還簡單啊！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19096/15個當你的心情爛得像坨屎時更該做的「療癒日常小事」。
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19086/25張Flickr精選出的「今年絕不可錯過的絕美照片」，令人驚嘆的台灣風景果然也有上榜！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19130/醫生以為這個肚子隆起的女生來找他是因為懷孕，但一掃描就被她的肚子裡的東西嚇歪了！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19121/他接起電腦想知道兩個智能機器人互相聊天會發生什麼事，沒想到最後一段談話讓他整個毛起來了…
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19123/她在演出「妙麗」爆紅後又受到王子追求，但比起當別人的王妃…她選擇了當自己的女王！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19125/日本人到中國發現這間完全沒聽過的「日本連鎖店」，而且追查下去竟發現背後公司的驚人祕密…
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19126/超懶人食譜教你在10分鐘內製作出超Q彈美味的布丁，即使是廚藝白癡也有可以拿出手的甜點啦！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19139/主人在路上昏倒後「黃金獵犬」守在他身旁「薩摩耶」卻跑去別邊玩，10分鐘後他才知道完全搞錯了！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19127/罪犯為了躲避警察逃到湖邊藏匿，結果他在那邊遇到了比警察糟糕100倍的東西…
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19080/有錢人看窮人生計困難決定送他一頭牛耕田，不久後回來看卻被眼前的景象給活活氣昏了！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19054/芬蘭決定給失業的人「終生每個月28K月薪」，而且國民都覺得這樣做超有道理！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19067/這個女生測試「罩杯不同是否影響小費多寡」，實驗結果已經讓很多貧乳的女生決定去旁邊哭了…
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19071/為了能讓我的衣櫥不要再亂到爆炸，我決定現在開始收集這個小東西了！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19072/這位非洲土著在拍攝《上帝也瘋狂》爆紅後決定回歸原始生活，但卻在家鄉發生讓人難過到極點的憾事…
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19087/這台大到嚇人的機器世界上只有11台，知道它的能力後你也會對人類發明能做到的事完全改觀！
+img src: |title :|width :|height :
+___________________
+taarget href: /article/19113/她從8歲開始看A片後就對性愛上癮，聽到她在床上對現任男友的要求你會覺得她完全瘋了…
+img src: |title :|width :|height :
+___________________
+Iframe
+ID :|width :|height :
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+___________________
+ID :google_ads_iframe_/139969814/bomb01_top_1_0|width :728|height :90
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-1&p=http%3A//www.bomb01.com
+___________________
+ID :google_ads_iframe_/139969814/bomb01_top_1_0__hidden__|width :0|height :0
+src :
+___________________
+ID :google_ads_iframe_/139969814/bomb01_grid_1_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-2&p=http%3A//www.bomb01.com
+___________________
+ID :ucfad_PtZJ0u7z|width :320px|height :50px
+src :
+___________________
+ID :aswift_0|width :320|height :50
+src :
+___________________
+ID :aswift_1|width :1256|height :605
+src :
+___________________
+ID :aswift_2|width :0|height :362
+src :
+___________________

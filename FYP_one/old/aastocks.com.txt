@@ -1,0 +1,113 @@
+a tag
+taarget href: https://accounts.aastocks.com/en/mainsite/registration.aspx
+img src: |title :Sign Up|width :|height :
+___________________
+taarget href: https://logon.aastocks.com/mainsite/en/login.aspx
+img src: |title :Login|width :|height :
+___________________
+taarget href: /en/stocks/quote/symbolsearch.aspx
+img src: |title :|width :|height :
+___________________
+taarget href: /en/stocks/quote/symbolsearch.aspx
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:goto('00717', 8)
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:goto('03800', 8)
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:goto('01141', 8)
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:goto('08181', 8)
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:goto('00032', 8)
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:gotoLCI('00480', 2)
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:gotoLCI('00717', 2)
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:gotoLCI('00462', 2)
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:gotoLCI('00234', 2)
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:gotoLCI('01353', 2)
+img src: |title :|width :|height :
+___________________
+taarget href: http://hkg8.aastocks.com/ad/delivery/ck.php?oaparams=2__bannerid=8291__zoneid=242__cb=018953f3cf__oadest=http%3A%2F%2Fwww.aastocks.com%2Fen%2Fmpf%2Fdefault.aspx
+img src: http://hkg3.aastocks.com/ad/images/131e7fdd1c679fc093df51400b55eb3f.png|title :|width :40|height :40
+___________________
+taarget href: http://hkg8.aastocks.com/ad/delivery/ck.php?oaparams=2__bannerid=2774__zoneid=248__cb=db8947e3a6__oadest=http%3A%2F%2Fwww.aastocks.com%2Feng%2Fbanner%2F20110526%2Fqw_lite_Promotion%2Fdefault.htm
+img src: http://hkg3.aastocks.com/ad/images/7c6dc9673a31d39caf5f0736782e1ba6.png|title :|width :40|height :40
+___________________
+taarget href: javascript:showhideSiteMap($('#aETF'), $('#divETFSiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aRTQuote'), $('#divRTQuoteSiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aAAMM'), $('#divAAMMSiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aCompanyFundament'), $('#divCompanyFundamentSiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aAAFN'), $('#divAAFNSiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aAAMM2'), $('#divAAMM2SiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aChiHotTopic'), $('#aChiHotTopicSiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aUS'), $('#divUSSiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aUS2'), $('#divUS2SiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aForex'), $('#divForexSiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aForex2'), $('#divForex2SiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aFund'), $('#divFundSiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: javascript:showhideSiteMap($('#aFund2'), $('#divFund2SiteMap'))
+img src: |title :|width :|height :
+___________________
+taarget href: https://accounts.aastocks.com/en/mainsite/registration.aspx
+img src: |title :Sign Up|width :|height :
+___________________
+taarget href: https://logon.aastocks.com/Mainsite/en/login.aspx
+img src: |title :Login|width :|height :
+___________________
+taarget href: http://www.aastocks.com/en/memberinfo/Feedback.aspx
+img src: |title :Feedback|width :|height :
+___________________
+taarget href: http://www.aastocks.com/en/LTP/RTPortfolioMain.aspx
+img src: |title :Portfolio Anywhere|width :|height :
+___________________
+taarget href: http://www.aastocks.com/en/LTP/RTRecent.aspx
+img src: |title :Latest Quote|width :|height :
+___________________
+Iframe
+ID :|width :728px|height :90px
+src :http://hkg3.aastocks.com/ad/images/10531/banner.htm
+___________________
+ID :hkinsideframe|width :0|height :0
+src :
+___________________
+ID :|width :300px|height :250px
+src :http://hkg3.aastocks.com/ad/images/10756/banner.htm
+___________________

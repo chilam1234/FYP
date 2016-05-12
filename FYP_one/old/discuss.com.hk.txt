@@ -1,0 +1,59 @@
+a tag
+taarget href: index.php
+img src: http://n2.hk/d/images/r13/logo.png|title :|width :|height :
+___________________
+taarget href: http://www.price.com.hk/
+img src: http://n2.hk/d/images/r13/icon_price.png|title :|width :|height :
+___________________
+taarget href: http://www.jetso.com.hk/
+img src: http://n2.hk/d/images/r13/icon_jetso.png|title :|width :|height :
+___________________
+taarget href: http://www.car.com.hk/
+img src: http://n2.hk/d/images/r13/icon_car.png|title :|width :|height :
+___________________
+taarget href: http://www.mytour.com.hk/
+img src: http://n2.hk/d/images/r13/icon_mytour.png|title :|width :|height :
+___________________
+taarget href: http://www.mammydaddy.com/
+img src: http://n2.hk/d/images/r13/icon_mammydaddy.png|title :|width :|height :
+___________________
+taarget href: http://www.adhere.com.hk/
+img src: http://n2.hk/d/images/r13/icon_adhere.png|title :|width :|height :
+___________________
+taarget href: viewthread.php?tid=25356252
+img src: http://n2.hk/d/attachments/day_151210/151210_62e401c10105cb6128b98107e3d54ecf|title :|width :|height :
+___________________
+taarget href: viewthread.php?tid=25353648
+img src: http://n2.hk/d/attachments/day_151209/151209_b626a0d5b9bf368a05bd7dbef53f9fc0|title :|width :|height :
+___________________
+taarget href: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssQbB4Akt82znCUPqEJlGcm6_ballk4MvmoKlyGugZjwAGVrpWOiaKD4nShNCioJPcMtGpW40Yf3aX4SUNZNcFrEn_QAECMKESNm3Fz&sig=Cg0ArKJSzJAn-iHSuhky&urlfix=1&adurl=http://www.cabletv.com.hk/ct/subscription_coverage.php
+img src: https://s1.2mdn.net/viewad/4143104/151207_LREC_300x250_R1.gif|title :|width :300|height :250
+___________________
+taarget href: https://www.youtube.com/watch?v=vDBa7tVEa0M
+img src: http://n2.hk/d/images/r13/youtube_thumb.png|title :|width :|height :
+___________________
+taarget href: http://c.l.networld.hk/lclick?seq=3014042900000046&loc=_adb_20_10003168
+img src: http://i.l.networld.hk/ad2/res/2014/04/29/91/91a4a2eea5b3aac6.jpg|title :|width :|height :
+___________________
+taarget href: http://c.l.networld.hk/lclick?seq=3014060300000014&loc=_adb_20_10003181&soid=0E0410AC0000566910B092797700
+img src: http://i.l.networld.hk/ad2/res/2014/06/03/4b/4bd466475fa3afda.jpg|title :|width :|height :
+___________________
+taarget href: http://www.networld.hk/apps/discuss/
+img src: http://n2.hk/d/images/r13/footer_app.png|title :|width :|height :
+___________________
+Iframe
+ID :|width :|height :
+src :
+___________________
+ID :|width :418|height :318
+src :http://n2.hk/ad/material/template/img.html?img=http://i.l.networld.hk/ad2/res/2015/12/09/a9/a98e24c6350cb694.jpg?clickTAG=http://c.l.networld.hk/lclick?seq=3015120900000001&loc=_adb_20_10002681&soid=0D0410AC0000566910B011873000
+___________________
+ID :aswift_0|width :728|height :90
+src :
+___________________
+ID :|width :0|height :0
+src :
+___________________
+ID :|width :300|height :13
+src :https://googleads.g.doubleclick.net/pagead/viewthroughconversion/979459899/?random=1449726128509&cv=8&fst=1449726128509&num=1&fmt=1&guid=ON&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=1&u_nmime=1&frm=0&url=http%3A//www.discuss.com.hk/
+___________________

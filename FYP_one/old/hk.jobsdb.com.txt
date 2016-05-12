@@ -1,0 +1,38 @@
+a tag
+taarget href: http://hk.jobsdb.com/en-hk/pages/retail?JSSRC=VJCL&JSSRC=VJCL&JSSRC=VJCL
+img src: http://content.jobsdb.com/Content/v284/CmsContent/HK/File/Retail.png|title :|width :|height :
+___________________
+taarget href: http://hk.jobsdb.com/en-hk/pages/hospitality-foodbeverage?JSSRC=VJCL&JSSRC=VJCL&JSSRC=VJCL
+img src: http://content.jobsdb.com/Content/v284/CmsContent/HK/File/Hotel_FandB.png|title :|width :|height :
+___________________
+taarget href: http://hk.jobsdb.com/en-hk/pages/engineering-highlight?JSSRC=VJCL&JSSRC=VJCL&JSSRC=VJCL
+img src: http://content.jobsdb.com/Content/v284/CmsContent/HK/File/Engineering.png|title :|width :|height :
+___________________
+taarget href: http://hk.jobsdb.com/HK/en/StaticContentFullContainer/cobrand/gov/default.htm?JSSRC=VJCL&JSSRC=VJCL&JSSRC=VJCL&JSSRC=VJCL
+img src: http://content.jobsdb.com/Content/v284/CmsContent/HK/File/Government.png|title :|width :|height :
+___________________
+taarget href: http://hk.jobsdb.com/en-hk/articles/%e8%a8%82%e7%ab%8b%e7%9b%ae%e6%a8%99%e6%8c%81%e7%ba%8c%e5%a2%9e%e5%80%bc-%e4%bf%ae%e8%bb%8a%e5%ad%b8%e5%be%92%e6%88%90%e7%82%ba%e5%8d%9a%e5%a3%ab
+img src: http://hk.jobsdb.com/en-hk/wp-content/uploads/sites/2/2015/12/dch_280x180-280x180.jpg|title :|width :280|height :180
+___________________
+taarget href: http://hk.jobsdb.com/en-hk/resources/workplace-survival-kit
+img src: http://hk.jobsdb.com/en-hk/wp-content/uploads/sites/2/2015/11/travel_280x180-e1449135687258-280x180.jpg|title :|width :280|height :180
+___________________
+taarget href: http://hk.jobsdb.com/en-hk/resources/jobsdb-highlights
+img src: http://hk.jobsdb.com/en-hk/wp-content/uploads/sites/2/2015/12/p1_280x180-280x180.png|title :|width :280|height :180
+___________________
+taarget href: http://hk.jobsdb.com/en-hk/resources/industry-focus
+img src: http://hk.jobsdb.com/en-hk/wp-content/uploads/sites/2/2015/11/DrNgai_revised_280x180-280x180.jpg|title :|width :280|height :180
+___________________
+taarget href: http://hk.jobsdb.com/en-hk/resources/job-hunters
+img src: http://hk.jobsdb.com/en-hk/wp-content/uploads/sites/2/2016/11/goodlook_280x180-280x180.jpg|title :|width :280|height :180
+___________________
+Iframe
+ID :HomeAdBannerIFrame|width :|height :
+src :http://hk.jobsdb.com/HK/en/Home/AdBannerHorizontal?adLink=HomeBanner
+___________________
+ID :AdBannerIFrameB|width :|height :
+src :http://hk.jobsdb.com/HK/en/Home/GetAdBannerByFileName?fileName=PlaceHolderB
+___________________
+ID :AdBannerIFrameA|width :|height :
+src :http://hk.jobsdb.com/HK/en/Home/GetAdBannerByFileName?fileName=PlaceHolderA
+___________________

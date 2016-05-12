@@ -1,0 +1,206 @@
+a tag
+taarget href: http://hk.apple.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.dv.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://nextplus.nextmedia.com/
+img src: |title :|width :|height :
+___________________
+taarget href: http://etw.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://me.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.face.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.ketchup.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.tradingauto.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.tomonews.net/
+img src: |title :|width :|height :
+___________________
+taarget href: http://www.nextdigital.com.hk/investor
+img src: |title :|width :95|height :17
+___________________
+taarget href: http://hk.charity.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.apple.nextmedia.com/news/first/20151210/19406347
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.apple.nextmedia.com/news/first/20151210/19406347
+img src: http://static.super.nextmedia.com/cds_images/SUPER/TOP_ROLLING_ZONE/09122015-news-54S.jpg|title :|width :|height :
+___________________
+taarget href: http://hk.dv.nextmedia.com/actionnews/entertainment/20151210/19405689/20090840
+img src: http://static.super.nextmedia.com/cds_images/SUPER/TOP_ROLLING_ZONE/09122015-ent-01S.jpg|title :|width :|height :
+___________________
+taarget href: http://hk.next.nextmedia.com/article/1344/17671597
+img src: http://static.super.nextmedia.com/cds_images/SUPER/TOP_ROLLING_ZONE/ACFRAA1da4Sp.jpg|title :|width :|height :
+___________________
+taarget href: http://hk.sudden.nextmedia.com/article/1045/17606822
+img src: http://static.super.nextmedia.com/cds_images/SUPER/TOP_ROLLING_ZONE/ACFDAA3eaGHB.jpg|title :|width :|height :
+___________________
+taarget href: http://hk.etw.nextmedia.com/article/1344/17672079
+img src: http://static.super.nextmedia.com/cds_images/SUPER/TOP_ROLLING_ZONE/ACFCBAaea4Sp.jpg|title :|width :|height :
+___________________
+taarget href: http://hk.me.nextmedia.com/article/469/17671107
+img src: http://static.super.nextmedia.com/cds_images/SUPER/TOP_ROLLING_ZONE/ACFWAA6da4Sp.jpg|title :|width :|height :
+___________________
+taarget href: http://hk.face.nextmedia.com/article/446/17670484
+img src: http://static.super.nextmedia.com/cds_images/SUPER/TOP_ROLLING_ZONE/ACFDEA8GaOEi.jpg|title :|width :|height :
+___________________
+taarget href: http://hk.ketchup.nextmedia.com/article/446/17669286
+img src: http://static.super.nextmedia.com/cds_images/SUPER/TOP_ROLLING_ZONE/ACFUDAZGaOEi.jpg|title :|width :|height :
+___________________
+taarget href: http://hk.tradingauto.nextmedia.com/article/1246/17669379
+img src: http://static.super.nextmedia.com/cds_images/SUPER/TOP_ROLLING_ZONE/auto_90.jpg|title :|width :|height :
+___________________
+taarget href: http://hk.tomonews.net/279166735073280
+img src: http://static.super.nextmedia.com/cds_images/SUPER/TOP_ROLLING_ZONE/ACFXAAx9aaVa.jpg|title :|width :|height :
+___________________
+taarget href: http://hk.apple.nextmedia.com
+img src: http://static.super.nextmedia.com/cds_images/SUPER/APPLICATION/sec_AppleDaily_new.png|title :|width :|height :
+___________________
+taarget href: http://hk.apple.appledaily.com/realtime/art_main.php?&iss_id=20151210&sec_id=7018882&art_id=54521060
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.apple.appledaily.com/realtime/art_main.php?&iss_id=20151210&sec_id=7032049&art_id=54520438
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.apple.appledaily.com/realtime/art_main.php?&iss_id=20151210&sec_id=7018882&art_id=54520926
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.apple.appledaily.com/realtime/art_main.php?&iss_id=20151210&sec_id=7015342&art_id=54521172
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.dv.nextmedia.com
+img src: http://static.super.nextmedia.com/cds_images/SUPER/APPLICATION/ACFFVAywaysF.png|title :|width :|height :
+___________________
+taarget href: http://hk.dv.appledaily.com/template/dv_channel/index.php?fuseaction=dv15.player&mode=section&range=d&dv_iss=20151210&id=4104&iss_id=20151210&sec_id=4104&art_id=19406347&av_id=20090817
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.dv.appledaily.com/template/dv_channel/index.php?fuseaction=dv15.player&mode=section&range=d&dv_iss=20151210&id=462&iss_id=20151210&sec_id=462&art_id=19405608&av_id=20090857
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.dv.appledaily.com/template/dv_channel/index.php?fuseaction=dv15.player&mode=section&range=d&dv_iss=20151210&id=4104&iss_id=20151210&sec_id=4104&art_id=19406202&av_id=20090824
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.dv.appledaily.com/template/dv_channel/index.php?fuseaction=dv15.player&mode=section&range=d&dv_iss=20151210&id=15335&iss_id=20151210&sec_id=15335&art_id=19406027&av_id=20090869
+img src: |title :|width :|height :
+___________________
+taarget href: http://pubads.g.doubleclick.net/gampad/clk?id=1204992415&iu=/7350/AppleDaily
+img src: http://staticlayout.apple.nextmedia.com/web_images/superportal/cds_images/APADV/ADVERTORIAL/75072_152x86.jpg|title :達哥變身007|width :150|height :84
+___________________
+taarget href: http://pubads.g.doubleclick.net/gampad/clk?id=117436015&iu=/7350
+img src: http://staticlayout.apple.nextmedia.com/web_images/superportal/cds_images/APADV/ADVERTORIAL/152x86_moviechannel.jpg|title :一台戲 睇影評 睇好戲|width :150|height :84
+___________________
+taarget href: http://hk.next.nextmedia.com
+img src: http://static.super.nextmedia.com/cds_images/SUPER/APPLICATION/sec_NextMag[1].png|title :|width :|height :
+___________________
+taarget href: http://me.nextmedia.com
+img src: http://static.super.nextmedia.com/cds_images/SUPER/APPLICATION/sec_Me[1].png|title :|width :|height :
+___________________
+taarget href: http://hk.next.nextmedia.com/article/1344/17671597
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.next.nextmedia.com/article/1344/17671725
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.me.nextmedia.com/article/469/17671107
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.me.nextmedia.com/article/469/17672137
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.face.nextmedia.com
+img src: http://static.super.nextmedia.com/cds_images/SUPER/APPLICATION/ACFJQApmayqz.png|title :|width :|height :
+___________________
+taarget href: http://hk.ketchup.nextmedia.com
+img src: http://static.super.nextmedia.com/cds_images/SUPER/APPLICATION/sec_Ketchup[1].png|title :|width :|height :
+___________________
+taarget href: http://hk.face.nextmedia.com/article/446/17670484
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.face.nextmedia.com/article/446/17669823
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.ketchup.nextmedia.com/article/446/17669286
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.ketchup.nextmedia.com/article/446/17669641
+img src: |title :|width :|height :
+___________________
+taarget href: http://etw.nextmedia.com
+img src: http://static.super.nextmedia.com/cds_images/SUPER/APPLICATION/sec_ETW[1].png|title :|width :|height :
+___________________
+taarget href: 
+img src: http://static.super.nextmedia.com/|title :|width :|height :
+___________________
+taarget href: http://hk.etw.nextmedia.com/article/1344/17672079
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.etw.nextmedia.com/article/1344/17671362
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.tomonews.net/
+img src: http://static.super.nextmedia.com/cds_images/SUPER/APPLICATION/sec_tomonews.png|title :|width :|height :
+___________________
+taarget href: http://hk.tomonews.net/279166735073280
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.tomonews.net/279167540379648
+img src: |title :|width :|height :
+___________________
+taarget href: http://www.nextdigital.com.hk/investor
+img src: |title :|width :145|height :20
+___________________
+taarget href: http://hk.apple.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.dv.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://nextplus.nextmedia.com/
+img src: |title :|width :|height :
+___________________
+taarget href: http://etw.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://me.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.face.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.ketchup.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.tradingauto.nextmedia.com
+img src: |title :|width :|height :
+___________________
+taarget href: http://hk.tomonews.net/
+img src: |title :|width :|height :
+___________________
+Iframe
+ID :|width :|height :
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+___________________
+ID :google_ads_iframe_/7350/NextMediaPortal/index/HeadBanner_0|width :970|height :160
+src :
+___________________
+ID :google_ads_iframe_/7350/NextMediaPortal/index/LREC1_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/7350/NextMediaPortal/index/LREC2_0|width :300|height :250
+src :
+___________________
+ID :google_ads_iframe_/7350/NextMediaPortal/index/MiniBanner_0|width :300|height :100
+src :
+___________________

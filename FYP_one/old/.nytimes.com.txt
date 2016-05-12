@@ -1,0 +1,38 @@
+a tag
+taarget href: http://www.nytimes.com/
+img src: |title :|width :379|height :64
+___________________
+taarget href: http://www.nytimes.com/2015/06/04/sports/soccer/soccer-official-chuck-blazer-admitted-accepting-bribes-for-world-cup-votes.html
+img src: http://static01.nyt.com/images/2015/06/04/sports/BLAZER/BLAZER-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/06/04/sports/long-path-to-the-top-of-racing-for-larry-collmus-the-voice-of-the-triple-crown.html
+img src: http://static01.nyt.com/images/2015/06/04/sports/Y-RACECALLER/Y-RACECALLER-largeHorizontal375-v2.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/06/04/nyregion/cuomos-team-surveys-new-york-state-agencies-for-opinions-on-attorney-general.html
+img src: http://static01.nyt.com/images/2015/06/03/nyregion/SURVEYweb1/SURVEYweb1-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/06/04/business/media/josh-duggar-molested-four-of-his-sisters-his-parents-tell-fox-news.html
+img src: http://static01.nyt.com/images/2015/06/04/business/media/04duggars1/04duggars1-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/06/07/magazine/what-silicon-valley-can-learn-from-seoul.html
+img src: http://static01.nyt.com/images/2015/06/07/magazine/07korea1/07korea1-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/06/04/us/last-task-after-layoff-at-disney-train-foreign-replacements.html
+img src: http://static01.nyt.com/images/2015/06/04/us/04VISAS/04VISAS-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/06/04/opinion/let-transgender-troops-serve-openly.html
+img src: http://static01.nyt.com/images/2015/06/04/opinion/04thu1/04thu1-mediumFlexible177.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/crosswords
+img src: http://static01.nyt.com/images/crosswords/crosswords_30x30.png|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/crosswords
+img src: http://static01.nyt.com/images/crosswords/crosswords_30x30.png|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/2015/06/04/realestate/1350000-homes-in-alabama-pennsylvania-and-ohio.html
+img src: http://static01.nyt.com/images/2015/06/03/realestate/20150603WYG-slide-TB6O/20150603WYG-slide-TB6O-thumbStandard.jpg|title :|width :|height :
+___________________
+taarget href: http://www.nytimes.com/
+img src: |title :|width :|height :
+___________________
+Iframe

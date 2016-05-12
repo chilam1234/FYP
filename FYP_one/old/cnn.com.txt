@@ -1,0 +1,11 @@
+a tag
+taarget href: //money.cnn.com/INTERNATIONAL/
+img src: http://i.cdn.turner.com/cnn/.element/img/4.0/logos/menu_money.png|title :|width :|height :
+___________________
+taarget href: /style
+img src: http://i.cdn.turner.com/cnn/.element/img/4.0/logos/menu_style.png|title :|width :|height :
+___________________
+Iframe
+ID :|width :|height :
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+___________________

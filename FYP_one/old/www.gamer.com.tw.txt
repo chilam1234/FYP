@@ -1,0 +1,155 @@
+a tag
+taarget href: http://www.gamer.com.tw
+img src: http://i2.bahamut.com.tw/baha_logo5.png|title :|width :156|height :107
+___________________
+taarget href: https://user.gamer.com.tw/login.php
+img src: http://i2.bahamut.com.tw/none.gif|title :|width :|height :
+___________________
+taarget href: javascript:AcgTypeahead.submit();
+img src: http://i2.bahamut.com.tw/search_bg.png|title :|width :|height :
+___________________
+taarget href: http://www.gamer.com.tw/adcounter.php?id=165477
+img src: http://p2.bahamut.com.tw/MATERIALS/69962.PNG|title :|width :180|height :150
+___________________
+taarget href: http://gnn.gamer.com.tw/
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://forum.gamer.com.tw/
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://prj.gamer.com.tw/app2u/bahaapp.html
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://play.gamer.com.tw/
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/gamecrazy.php
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://guild.gamer.com.tw/
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/liveindex.php
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://avatar1.gamer.com.tw
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://buy.gamer.com.tw/
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://fuli.gamer.com.tw/
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://prj.gamer.com.tw/acgaward/
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://user.gamer.com.tw/
+img src: http://i2.bahamut.com.tw/spacer.gif|title :|width :|height :
+___________________
+taarget href: http://buy.gamer.com.tw/atmItem.php?sn=19097
+img src: http://p2.bahamut.com.tw/B/2KU/73/0001291973.JPG|title :|width :|height :
+___________________
+taarget href: http://buy.gamer.com.tw/atmItem.php?sn=18785
+img src: http://p2.bahamut.com.tw/B/2KU/47/0001223447.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/2/125242.html
+img src: http://p2.bahamut.com.tw/S/2KU/38/0001298238.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/2/125212.html
+img src: http://p2.bahamut.com.tw/S/2KU/80/0001298080.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/0/125210.html
+img src: http://p2.bahamut.com.tw/S/2KU/69/0001298069.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/4/125204.html
+img src: http://p2.bahamut.com.tw/S/2KU/32/0001298032.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/5/125185.html
+img src: http://p2.bahamut.com.tw/S/2KU/25/0001297725.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/1/125181.html
+img src: http://p2.bahamut.com.tw/S/2KU/94/0001297694.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/9/125179.html
+img src: http://p2.bahamut.com.tw/S/2KU/87/0001297687.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/8/125178.html
+img src: http://p2.bahamut.com.tw/S/2KU/82/0001297682.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/3/125233.html
+img src: http://p2.bahamut.com.tw/S/2KU/84/0001298184.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/1/125151.html
+img src: http://p2.bahamut.com.tw/S/2KU/56/0001297356.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/1/125101.html
+img src: http://p2.bahamut.com.tw/S/2KU/15/0001293615.JPG|title :|width :|height :
+___________________
+taarget href: http://gnn.gamer.com.tw/0/125050.html
+img src: http://p2.bahamut.com.tw/S/2KU/18/0001296218.PNG|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/live.php?u=NINOBOY2
+img src: http://static-cdn.jtvnw.net/previews-ttv/live_user_kaalul751212-640x360.jpg|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/live.php?u=afallenangel
+img src: http://static-cdn.jtvnw.net/previews-ttv/live_user_iloverogame-640x360.jpg|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/live.php?u=myleswei
+img src: http://static-cdn.jtvnw.net/previews-ttv/live_user_sing031625-640x360.jpg|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/live.php?u=diablosoul
+img src: http://static-cdn.jtvnw.net/previews-ttv/live_user_diablosoul-640x360.jpg|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/live.php?u=f43775668
+img src: http://static-cdn.jtvnw.net/previews-ttv/live_user_f43775668-640x360.jpg|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/live.php?u=ching8886
+img src: https://i.ytimg.com/vi/-GlBufIGCic/hqdefault_live.jpg|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/creationDetail.php?sn=3044283
+img src: http://p2.bahamut.com.tw/HOME/creationCover/83/0003044283.JPG|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/creationDetail.php?sn=3043979
+img src: http://p2.bahamut.com.tw/HOME/creationCover/79/0003043979.JPG|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/creationDetail.php?sn=3043850
+img src: http://p2.bahamut.com.tw/HOME/creationCover/50/0003043850.JPG|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/creationDetail.php?sn=3043741
+img src: http://p2.bahamut.com.tw/HOME/creationCover/41/0003043741.JPG|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/creationDetail.php?sn=3043727
+img src: http://p2.bahamut.com.tw/HOME/creationCover/27/0003043727.JPG|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/creationDetail.php?sn=3043612
+img src: http://p2.bahamut.com.tw/HOME/creationCover/12/0003043612.JPG|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/creationDetail.php?sn=3043108
+img src: http://p2.bahamut.com.tw/HOME/creationCover/08/0003043108.JPG|title :|width :|height :
+___________________
+taarget href: http://home.gamer.com.tw/creationDetail.php?sn=3043048
+img src: http://p2.bahamut.com.tw/HOME/creationCover/48/0003043048.JPG|title :|width :|height :
+___________________
+taarget href: http://guild.gamer.com.tw/wiki.php?sn=9586&n=H%C3%A4kke+Test-A+sn2
+img src: http://truth.bahamut.com.tw/guildwiki/B/1f5805ab72e493948d4e40c6e4d5ba99.JPG|title :|width :|height :
+___________________
+taarget href: http://guild.gamer.com.tw/wiki.php?sn=9840&n=%E7%86%9F%E7%B7%B4%E5%BA%A6
+img src: http://truth.bahamut.com.tw/guildwiki/B/a820bea83307bbc92526c099ed0e95cb.JPG|title :|width :|height :
+___________________
+taarget href: http://acg.gamer.com.tw/acgDetail.php?s=74609
+img src: http://p2.bahamut.com.tw/S/ACG/c/09/0000074609.JPG|title :|width :|height :
+___________________
+taarget href: http://www.gamer.com.tw/adcounter.php?id=165773
+img src: http://p2.bahamut.com.tw/MATERIALS/70128.JPG|title :|width :300|height :360
+___________________
+taarget href: http://www.gamer.com.tw/adcounter.php?id=165352
+img src: http://p2.bahamut.com.tw/MATERIALS/70097.JPG?v=20151214141244|title :|width :300|height :360
+___________________
+taarget href: http://www.gamer.com.tw/adcounter.php?id=165700
+img src: http://p2.bahamut.com.tw/MATERIALS/70124.JPG|title :|width :300|height :360
+___________________
+Iframe

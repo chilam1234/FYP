@@ -1,0 +1,38 @@
+a tag
+taarget href: /index.php
+img src: |title :|width :|height :
+___________________
+taarget href: index.php
+img src: |title :|width :|height :
+___________________
+taarget href: /?app=view&no=363292
+img src: |title :|width :90|height :90
+___________________
+taarget href: /?app=view&no=362941
+img src: |title :|width :90|height :90
+___________________
+taarget href: /?app=view&no=363249
+img src: |title :|width :90|height :90
+___________________
+taarget href: /?app=view&no=363354
+img src: |title :|width :90|height :90
+___________________
+taarget href: /?app=view&no=363401
+img src: |title :|width :90|height :90
+___________________
+taarget href: /?app=view&no=363387
+img src: |title :|width :90|height :90
+___________________
+Iframe
+ID :ebBannerIFrame_32467405_18768230629274696|width :300|height :250
+src :http://ds.serving-sys.com/BurstingRes/Site-10609/WSFolders/5082322_4//index.html?v=_2_51_1_0
+___________________
+ID :aswift_0|width :300|height :250
+src :
+___________________
+ID :|width :300|height :250
+src :https://s.yimg.com/cv/ae/hk/gdjpoeh/121015/index.html
+___________________
+ID :aswift_1|width :300|height :600
+src :
+___________________

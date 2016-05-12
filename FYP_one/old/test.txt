@@ -1,0 +1,2218 @@
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+21
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+border-width: 0px; vertical-align: top;
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+width:445px; height:297px; border:none;
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+border:none;
+148px
+222px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+222,148,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+border:none;
+148px
+222px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+222,148,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+border:none;
+148px
+222px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+222,148,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+border:none;
+148px
+222px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+222,148,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+border:none;
+148px
+222px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+222,148,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+border:none;
+148px
+222px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+222,148,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+border:none;
+148px
+222px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+222,148,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+border:none;
+148px
+222px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+222,148,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+70
+333px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+333,70,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+650px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+650,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+20px
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+650px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+650,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+20px
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+650px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+650,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+20px
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+650px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+650,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+20px
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+650px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+650,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+20px
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+650px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+650,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+20px
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+650px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+650,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+20px
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+650px
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+650,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+20px
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+float: left;
+21
+22
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+22,21,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news {news,Nonnews}
+@attribute image {image,Nonimage}
+@attribute targetvalue {AD,NonAD}
+@attribute frameOrimage {iframe,image}
+
+@data
+?,?,Noniframe,Nongoogle,Nonad,Nonads,Nonaswift,Noninsert,Nondoubleclick,Noncontent,Nonuploads,Noncdn,Nonnews,Nonimage,?,image
+*****************
+
+
+
+@relation Advertisment
+
+@attribute width numeric
+@attribute height numeric
+@attribute iframe {iframe,Noniframe}
+@attribute google {google,Nongoogle}
+@attribute ad {ad,Nonad}
+@attribute ads {ads,Nonads}
+@attribute aswift {aswift,Nonaswift}
+@attribute insert {insert,Noninsert}
+@attribute doubleclick {doubleclick,Nondoubleclick}
+@attribute content {content,Noncontent}
+@attribute uploads {uploads,Nonuploads}
+@attribute cdn {cdn,Noncdn}
+@attribute news 

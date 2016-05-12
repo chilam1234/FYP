@@ -1,0 +1,149 @@
+AttributeSelectedClassifier:
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Attribute ranking.
+
+Attribute Evaluator (unsupervised):
+	Principal Components Attribute Transformer
+
+Correlation matrix
+  1      0.67  -0.22  -0.22  -0.37  -0.36  -0.02   0.04  -0.25  -0.25  -0.24  -0.26   0.24  -0.35 
+  0.67   1     -0.29  -0.29  -0.45  -0.46  -0.06  -0     -0.3   -0.3   -0.31  -0.08   0.16  -0.24 
+ -0.22  -0.29   1      0.84   0.55   0.63  -0.08  -0.07  -0.21  -0.21  -0.2    0.37  -0.15   0.55 
+ -0.22  -0.29   0.84   1      0.42   0.51  -0.09   0.08  -0.26  -0.26  -0.24   0.31  -0.18   0.66 
+ -0.37  -0.45   0.55   0.42   1      0.87  -0.14   0.16   0.51   0.51   0.45   0.2   -0.2    0.21 
+ -0.36  -0.46   0.63   0.51   0.87   1     -0.12   0.04   0.59   0.59   0.52   0.23  -0.23   0.18 
+ -0.02  -0.06  -0.08  -0.09  -0.14  -0.12   1     -0.02  -0.07  -0.07  -0.07  -0.03  -0.05   0.19 
+  0.04  -0     -0.07   0.08   0.16   0.04  -0.02   1     -0.06  -0.06  -0.06  -0.03  -0.04   0.17 
+ -0.25  -0.3   -0.21  -0.26   0.51   0.59  -0.07  -0.06   1      1      0.91  -0.08  -0.14  -0.39 
+ -0.25  -0.3   -0.21  -0.26   0.51   0.59  -0.07  -0.06   1      1      0.91  -0.08  -0.14  -0.39 
+ -0.24  -0.31  -0.2   -0.24   0.45   0.52  -0.07  -0.06   0.91   0.91   1     -0.07  -0.13  -0.37 
+ -0.26  -0.08   0.37   0.31   0.2    0.23  -0.03  -0.03  -0.08  -0.08  -0.07   1     -0.05   0.2  
+  0.24   0.16  -0.15  -0.18  -0.2   -0.23  -0.05  -0.04  -0.14  -0.14  -0.13  -0.05   1     -0.19 
+ -0.35  -0.24   0.55   0.66   0.21   0.18   0.19   0.17  -0.39  -0.39  -0.37   0.2   -0.19   1    
+
+
+eigenvalue	proportion	cumulative
+  4.36657	  0.3119 	  0.3119 	0.437ads=Nonads+0.41 ad=Nonad+0.356content=Noncontent+0.356uploads=Nonuploads+0.338cdn=Noncdn...
+  3.52383	  0.2517 	  0.5636 	-0.443google=Nongoogle-0.431frameOrimage=image-0.425iframe=Noniframe+0.341uploads=Nonuploads+0.341content=Noncontent...
+  1.31334	  0.09381	  0.65741	-0.579aswift=Nonaswift+0.463width+0.384height+0.261image=Nonimage-0.235frameOrimage=image...
+  1.10158	  0.07868	  0.73609	0.848doubleclick=Nondoubleclick-0.35news=Nonnews-0.229image=Nonimage+0.169width+0.16 frameOrimage=image...
+  0.90475	  0.06463	  0.80072	-0.576image=Nonimage+0.406aswift=Nonaswift+0.405width+0.366height-0.343doubleclick=Nondoubleclick...
+  0.86416	  0.06173	  0.86245	0.699image=Nonimage+0.586aswift=Nonaswift+0.232width-0.196news=Nonnews+0.149ads=Nonads...
+  0.83281	  0.05949	  0.92193	0.837news=Nonnews+0.318aswift=Nonaswift+0.29 doubleclick=Nondoubleclick+0.274height-0.134google=Nongoogle...
+  0.38859	  0.02776	  0.94969	0.659frameOrimage=image+0.572height-0.27width-0.178iframe=Noniframe+0.169image=Nonimage...
+  0.26769	  0.01912	  0.96881	-0.543ad=Nonad+0.503google=Nongoogle+0.367width+0.335cdn=Noncdn-0.279height...
+
+Eigenvectors
+ V1	 V2	 V3	 V4	 V5	 V6	 V7	 V8	 V9	
+-0.2762	 0.1175	 0.463 	 0.1688	 0.4052	 0.2316	 0.025 	-0.2701	 0.3667	width
+-0.3061	 0.0982	 0.3837	 0.0746	 0.3661	-0.0474	 0.2735	 0.5724	-0.2791	height
+ 0.195 	-0.4247	 0.2299	-0.1363	 0.1691	 0.1318	-0.0932	-0.1783	-0.1926	iframe=Noniframe
+ 0.1607	-0.4432	 0.168 	 0.0254	 0.0951	 0.0617	-0.1337	 0.019 	 0.5028	google=Nongoogle
+ 0.4103	-0.0967	 0.2023	 0.1481	 0.016 	 0.1431	 0.0244	-0.0296	-0.543 	ad=Nonad
+ 0.437 	-0.094 	 0.2167	 0.0287	 0.1466	 0.1491	 0.0024	-0.0389	-0.0456	ads=Nonads
+-0.0529	-0.0224	-0.5786	 0.0588	 0.4057	 0.5859	 0.3176	-0.1352	-0.0683	aswift=Nonaswift
+ 0.0066	-0.0615	 0.0542	 0.8482	-0.3427	-0.0012	 0.2902	-0.1245	 0.0361	doubleclick=Nondoubleclick
+ 0.356 	 0.3409	 0.0154	 0.0103	 0.0594	 0.0436	 0.0541	 0.1527	 0.1058	content=Noncontent
+ 0.356 	 0.3409	 0.0154	 0.0103	 0.0594	 0.0436	 0.0541	 0.1527	 0.1058	uploads=Nonuploads
+ 0.338 	 0.3287	-0.0066	 0.002 	 0.0377	 0.0334	 0.0428	 0.1264	 0.3353	cdn=Noncdn
+ 0.1014	-0.2143	 0.0877	-0.3504	-0.1416	-0.1957	 0.837 	-0.0768	 0.1521	news=Nonnews
+-0.1515	 0.0743	 0.2608	-0.2288	-0.5758	 0.6985	 0.0009	 0.1693	 0.0223	image=Nonimage
+ 0.0565	-0.4306	-0.2355	 0.1603	 0.0156	 0.0764	-0.0634	 0.6587	 0.1906	frameOrimage=image
+
+Ranked attributes:
+ 0.6881   1 0.437ads=Nonads+0.41 ad=Nonad+0.356content=Noncontent+0.356uploads=Nonuploads+0.338cdn=Noncdn...
+ 0.4364   2 -0.443google=Nongoogle-0.431frameOrimage=image-0.425iframe=Noniframe+0.341uploads=Nonuploads+0.341content=Noncontent...
+ 0.3426   3 -0.579aswift=Nonaswift+0.463width+0.384height+0.261image=Nonimage-0.235frameOrimage=image...
+ 0.2639   4 0.848doubleclick=Nondoubleclick-0.35news=Nonnews-0.229image=Nonimage+0.169width+0.16 frameOrimage=image...
+ 0.1993   5 -0.576image=Nonimage+0.406aswift=Nonaswift+0.405width+0.366height-0.343doubleclick=Nondoubleclick...
+ 0.1376   6 0.699image=Nonimage+0.586aswift=Nonaswift+0.232width-0.196news=Nonnews+0.149ads=Nonads...
+ 0.0781   7 0.837news=Nonnews+0.318aswift=Nonaswift+0.29 doubleclick=Nondoubleclick+0.274height-0.134google=Nongoogle...
+ 0.0503   8 0.659frameOrimage=image+0.572height-0.27width-0.178iframe=Noniframe+0.169image=Nonimage...
+ 0.0312   9 -0.543ad=Nonad+0.503google=Nongoogle+0.367width+0.335cdn=Noncdn-0.279height...
+
+Selected attributes: 1,2,3,4,5,6,7,8,9 : 9
+
+
+Header of reduced data:
+@relation 'Advertisment-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.NominalToBinary-Rfirst-last-weka.filters.unsupervised.attribute.Remove-R8,15-weka.filters.unsupervised.attribute.Standardize_principal components-weka.filters.unsupervised.attribute.Remove-V-R1-10'
+
+@attribute '0.437ads=Nonads+0.41 ad=Nonad+0.356content=Noncontent+0.356uploads=Nonuploads+0.338cdn=Noncdn...' numeric
+@attribute -0.443google=Nongoogle-0.431frameOrimage=image-0.425iframe=Noniframe+0.341uploads=Nonuploads+0.341content=Noncontent... numeric
+@attribute -0.579aswift=Nonaswift+0.463width+0.384height+0.261image=Nonimage-0.235frameOrimage=image... numeric
+@attribute '0.848doubleclick=Nondoubleclick-0.35news=Nonnews-0.229image=Nonimage+0.169width+0.16 frameOrimage=image...' numeric
+@attribute -0.576image=Nonimage+0.406aswift=Nonaswift+0.405width+0.366height-0.343doubleclick=Nondoubleclick... numeric
+@attribute 0.699image=Nonimage+0.586aswift=Nonaswift+0.232width-0.196news=Nonnews+0.149ads=Nonads... numeric
+@attribute '0.837news=Nonnews+0.318aswift=Nonaswift+0.29 doubleclick=Nondoubleclick+0.274height-0.134google=Nongoogle...' numeric
+@attribute 0.659frameOrimage=image+0.572height-0.27width-0.178iframe=Noniframe+0.169image=Nonimage... numeric
+@attribute -0.543ad=Nonad+0.503google=Nongoogle+0.367width+0.335cdn=Noncdn-0.279height... numeric
+@attribute targetvalue {AD,NonAD}
+
+@data
+
+
+Classifier Model
+Naive Bayes Classifier
+
+                                                                                                                            Class
+Attribute                                                                                                                      AD   NonAD
+                                                                                                                            (0.5)   (0.5)
+==========================================================================================================================================
+0.437ads=Nonads+0.41 ad=Nonad+0.356content=Noncontent+0.356uploads=Nonuploads+0.338cdn=Noncdn...
+  mean                                                                                                                     -0.1386  0.1405
+  std. dev.                                                                                                                 1.4504  2.5618
+  weight sum                                                                                                                    99      99
+  precision                                                                                                                 0.0897  0.0897
+
+-0.443google=Nongoogle-0.431frameOrimage=image-0.425iframe=Noniframe+0.341uploads=Nonuploads+0.341content=Noncontent...
+  mean                                                                                                                      1.3613 -1.3761
+  std. dev.                                                                                                                 1.5322  0.9439
+  weight sum                                                                                                                    99      99
+  precision                                                                                                                 0.0975  0.0975
+
+-0.579aswift=Nonaswift+0.463width+0.384height+0.261image=Nonimage-0.235frameOrimage=image...
+  mean                                                                                                                      0.3468 -0.3408
+  std. dev.                                                                                                                 1.3787  0.7034
+  weight sum                                                                                                                    99      99
+  precision                                                                                                                 0.0858  0.0858
+
+0.848doubleclick=Nondoubleclick-0.35news=Nonnews-0.229image=Nonimage+0.169width+0.16 frameOrimage=image...
+  mean                                                                                                                     -0.1274  0.1346
+  std. dev.                                                                                                                 1.4304  0.3329
+  weight sum                                                                                                                    99      99
+  precision                                                                                                                  0.119   0.119
+
+-0.576image=Nonimage+0.406aswift=Nonaswift+0.405width+0.366height-0.343doubleclick=Nondoubleclick...
+  mean                                                                                                                      0.0425 -0.0385
+  std. dev.                                                                                                                 1.0411  0.8492
+  weight sum                                                                                                                    99      99
+  precision                                                                                                                 0.0668  0.0668
+
+0.699image=Nonimage+0.586aswift=Nonaswift+0.232width-0.196news=Nonnews+0.149ads=Nonads...
+  mean                                                                                                                     -0.0018 -0.0012
+  std. dev.                                                                                                                 1.0084  0.8389
+  weight sum                                                                                                                    99      99
+  precision                                                                                                                 0.0608  0.0608
+
+0.837news=Nonnews+0.318aswift=Nonaswift+0.29 doubleclick=Nondoubleclick+0.274height-0.134google=Nongoogle...
+  mean                                                                                                                      0.0754 -0.0754
+  std. dev.                                                                                                                 1.2618  0.2216
+  weight sum                                                                                                                    99      99
+  precision                                                                                                                 0.0698  0.0698
+
+0.659frameOrimage=image+0.572height-0.27width-0.178iframe=Noniframe+0.169image=Nonimage...
+  mean                                                                                                                     -0.1411  0.1387
+  std. dev.                                                                                                                 0.7464   0.422
+  weight sum                                                                                                                    99      99
+  precision                                                                                                                 0.0389  0.0389
+
+-0.543ad=Nonad+0.503google=Nongoogle+0.367width+0.335cdn=Noncdn-0.279height...
+  mean                                                                                                                     -0.0036  0.0112
+  std. dev.                                                                                                                 0.6662  0.2975
+  weight sum                                                                                                                    99      99
+  precision                                                                                                                 0.0442  0.0442
+

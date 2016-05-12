@@ -1,0 +1,146 @@
+a tag
+taarget href: http://weather.sina.com.hk/
+img src: http://rs3.sinahk.net/1y/layout/common/weather/140619/2/51.png|title :|width :19|height :19
+___________________
+taarget href: javascript:;
+img src: |title :|width :|height :
+___________________
+taarget href: /
+img src: http://rs.sinahk.net/wb/i/120607/weibo_logo_140331.jpg?123|title :|width :161|height :56
+___________________
+taarget href: http://hk.weibo.com/p/weibostatus/content/index/3849048358027545/21
+img src: http://rs.sinahk.net/wb/n/hilite/m/0/00/00/00/77/1/p_5.jpg|title :|width :215|height :195
+___________________
+taarget href: http://hk.weibo.com/p/weibostatus/content/index/3848987960540821/21
+img src: http://rs.sinahk.net/wb/n/hilite/m/0/00/00/00/76/1/p_5.jpg|title :|width :215|height :195
+___________________
+taarget href: http://hk.weibo.com/p/weibostatus/content/index/3849999261780191/21
+img src: http://rs.sinahk.net/wb/n/hilite/m/0/00/00/00/69/1/p_5.jpg|title :|width :215|height :195
+___________________
+taarget href: http://hk.weibo.com/p/weibostatus/content/index/3849002879242892/22
+img src: http://rs.sinahk.net/wb/n/hilite/m/0/00/00/00/73/1/p_4.jpg|title :|width :215|height :195
+___________________
+taarget href: http://hk.weibo.com/p/weibostatus/content/index/3850044925373562/21
+img src: http://rs.sinahk.net/wb/n/hilite/m/0/00/00/00/70/1/p_12.jpg|title :|width :215|height :195
+___________________
+taarget href: http://hk.weibo.com/p/weibostatus/content/index/3848147736922526/21
+img src: http://rs.sinahk.net/wb/n/hilite/m/0/00/00/00/74/1/p_12.jpg|title :|width :215|height :195
+___________________
+taarget href: http://www.weibo.com/p/10151501_100259261
+img src: http://rs.sinahk.net/wb/n/hilite/m/0/00/00/00/75/1/p_7.jpg|title :|width :234|height :195
+___________________
+taarget href: http://hk.weibo.com/p/weibostatus/content/index/3848171983906822/21/i/87b406c6gw1esm5i39htvj20ku0t6tdo
+img src: http://rs.sinahk.net/wb/n/hilite/m/0/00/00/00/72/1/p_12.jpg|title :|width :215|height :195
+___________________
+taarget href: http://hk.weibo.com/p/weibostatus/content/index/3849759100427986/21
+img src: http://rs.sinahk.net/wb/n/hilite/m/0/00/00/00/71/1/p_8.jpg|title :|width :215|height :195
+___________________
+taarget href: /daily/
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :|height :
+___________________
+taarget href: http://hk.weibo.com/daily/news/20150604/-9-9728/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :232|height :232
+___________________
+taarget href: http://hk.weibo.com/daily/news/20150604/-9-9723/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :342|height :232
+___________________
+taarget href: http://hk.weibo.com/daily/news/20150604/-9-9724/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :237|height :232
+___________________
+taarget href: http://hk.weibo.com/daily/news/20150604/-9-9722/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :217|height :232
+___________________
+taarget href: http://hk.weibo.com/daily/news/20150604/-9-9721/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :210|height :315
+___________________
+taarget href: http://hk.weibo.com/daily/news/20150603/-9-9720/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :210|height :315
+___________________
+taarget href: http://hk.weibo.com/daily/news/20150603/-9-9719/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :364|height :232
+___________________
+taarget href: http://hk.weibo.com/daily/news/20150603/-9-9705/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :210|height :276
+___________________
+taarget href: /video/index/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :|height :
+___________________
+taarget href: http://hk.weibo.com/video/news/20150603/-10-9718/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :210|height :127
+___________________
+taarget href: http://hk.weibo.com/video/news/20150603/-10-9704/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :210|height :127
+___________________
+taarget href: http://hk.weibo.com/video/news/20150602/-10-9700/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :210|height :127
+___________________
+taarget href: http://hk.weibo.com/video/news/20150601/-10-9677/1.html
+img src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC|title :|width :210|height :127
+___________________
+taarget href: #TOP
+img src: http://rs.sinahk.net/wb/i/120607/topBtn.gif|title :|width :|height :
+___________________
+Iframe
+ID :google_esf|width :|height :
+src :http://googleads.g.doubleclick.net/pagead/html/r20150528/r20150521/zrt_lookup.html
+___________________
+ID :|width :|height :
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+___________________
+ID :google_ads_iframe_/16358449/WeiBoHK_ROS_TopBanner_728x90_0|width :728|height :90
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-1&p=http%3A//hk.weibo.com
+___________________
+ID :google_ads_iframe_/16358449/WeiBoHK_ROS_TopBanner_728x90_0__hidden__|width :0|height :0
+src :javascript:"<html><body style='background:transparent'></body></html>"
+___________________
+ID :google_ads_iframe_/16358449/WeiBoHK_ROS_LREC_300x250_0|width :300|height :250
+src :http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html#xpc=sf-gdn-exp-2&p=http%3A//hk.weibo.com
+___________________
+ID :google_ads_iframe_/16358449/WeiBoHK_ROS_LREC_300x250_0__hidden__|width :0|height :0
+src :javascript:"<html><body style='background:transparent'></body></html>"
+___________________
+ID :gt-iframe|width :680|height :155
+src :http://api.hk.weibo.com/widget/topic/index.php/small_widget/show/?mode=2&layout=2&kw=TVB%E5%B0%8F%E8%8A%B1&at=%E9%A6%99%E6%B8%AF%E6%96%B0%E6%B5%AA%E5%A8%9B%E6%A8%82&url=http%3A%2F%2Fhk.weibo.com%2F&topic_link=3
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fdaily%2Fnews%2F20150604%2F-9-9728%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fdaily%2Fnews%2F20150604%2F-9-9723%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fdaily%2Fnews%2F20150604%2F-9-9724%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fdaily%2Fnews%2F20150604%2F-9-9722%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fdaily%2Fnews%2F20150604%2F-9-9721%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fdaily%2Fnews%2F20150603%2F-9-9720%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fdaily%2Fnews%2F20150603%2F-9-9719%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fdaily%2Fnews%2F20150603%2F-9-9705%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :aswift_0|width :728|height :90
+src :
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fvideo%2Fnews%2F20150603%2F-10-9718%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fvideo%2Fnews%2F20150603%2F-10-9704%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fvideo%2Fnews%2F20150602%2F-10-9700%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :facebookLikeIframe|width :|height :
+src :http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhk.weibo.com%2Fvideo%2Fnews%2F20150601%2F-10-9677%2F1.html&layout=standard&show_faces=false&width=400&action=like&colorscheme=light&height=25&locale=zh_HK
+___________________
+ID :google_osd_static_frame_4315576458251|width :|height :
+src :
+___________________

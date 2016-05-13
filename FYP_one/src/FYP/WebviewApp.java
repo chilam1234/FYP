@@ -6,6 +6,7 @@ import javax.swing.ImageIcon;
 
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
+import java.awt.Image;
 import java.awt.Point;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -21,7 +22,6 @@ import java.util.logging.*;
 import javax.swing.JButton;
 import javax.swing.JComponent;
 import javax.swing.JFrame;
-import javax.swing.JMenu;
 import javax.swing.JMenuItem;
 import javax.swing.JPanel;
 import javax.swing.JPopupMenu;
@@ -31,7 +31,11 @@ import javax.swing.WindowConstants;
 
 import weka.core.converters.ArffSaver;
 import weka.core.converters.ConverterUtils.DataSource;
+import weka.classifiers.bayes.*;
+import weka.classifiers.trees.*;
+import weka.classifiers.functions.SMO;
 
+import com.alee.laf.label.WebLabel;
 import com.alee.laf.menu.WebMenu;
 import com.alee.laf.menu.WebMenuBar;
 import com.alee.laf.menu.WebMenuItem;
@@ -67,7 +71,14 @@ import java.io.IOException;
 /**
  * Demonstrates how to embed Browser instance into JavaFX application.
  */
+
+
 public class WebviewApp {
+	public enum Classifier {
+	    ADtree, NaiveBayes, RandomForest, J48,
+	    SMO
+	}
+	static Classifier classifier = Classifier.ADtree; 
 	private ARFF arff;
 	double result;
 	Instances dataSet;
@@ -213,8 +224,30 @@ public class WebviewApp {
 				        PrincipalComponents pca = new PrincipalComponents();
 				        Ranker ranker = new Ranker();
 				        //NaiveBayes NB = new NaiveBayes();
-				        ADTree adtree = new ADTree();
-				        ASclassifier.setClassifier(adtree);
+				        
+				        switch(classifier){
+				        case ADtree:
+				        	ADTree adtree = new ADTree();
+				        	ASclassifier.setClassifier(adtree);
+				        	break;
+				        case NaiveBayes:
+				        	NaiveBayes NB = new NaiveBayes();
+				        	ASclassifier.setClassifier(NB);
+				        case RandomForest:
+				        	RandomForest RF = new RandomForest();
+				        	ASclassifier.setClassifier(RF);
+				        case J48:
+				        	J48 j48 = new J48();
+				        	ASclassifier.setClassifier(j48);
+				        case SMO:
+				        	SMO smo = new SMO();
+				        	ASclassifier.setClassifier(smo);
+						default:
+							ADTree adtree1 = new ADTree();
+					        ASclassifier.setClassifier(adtree1);
+					        break;
+				        }
+				        
 				        ASclassifier.setEvaluator(pca);
 				        ASclassifier.setSearch(ranker);
 				        ASclassifier.buildClassifier(dataSet);
@@ -606,12 +639,13 @@ public class WebviewApp {
         };
         
         ImageIcon GoIcon = new ImageIcon((new ImageIcon("./icons/next-page.png")).getImage().getScaledInstance(15, 15, java.awt.Image.SCALE_SMOOTH));
-        
+        Image BrowserIcon = (new ImageIcon("./icons/browser.png")).getImage().getScaledInstance(15, 15, java.awt.Image.SCALE_SMOOTH);
+        ImageIcon appsIcon = new ImageIcon((new ImageIcon("./icons/apps.png")).getImage().getScaledInstance(15, 15, java.awt.Image.SCALE_SMOOTH));
+        ImageIcon noteIcon = new ImageIcon((new ImageIcon("./icons/note.png")).getImage().getScaledInstance(15, 15, java.awt.Image.SCALE_SMOOTH));
         WebMenuBar menuBar = new WebMenuBar ();
-        WebMenu menu1 = new WebMenu("classifier" ) ;
-        menu1.setBackground(Color.CYAN);
+        WebMenu menu1 = new WebMenu("Classifier",noteIcon) ;
 
-        WebMenu menu2 = new WebMenu("Functionailties");
+        WebMenu menu2 = new WebMenu("Functionailties",appsIcon);
         WebMenuItem menu2Item1 = new WebMenuItem("Raw Data Extraction");
         WebMenuItem menu2Item2 = new WebMenuItem("ARFF Update/Generate");
         WebMenuItem menu2Item3 = new WebMenuItem("Classify Advertisement");
@@ -623,11 +657,74 @@ public class WebviewApp {
         menu2.add(menu2Item1);
         menu2.add(menu2Item2);
         menu2.add(menu2Item3);
+        WebLabel currentcfer = new WebLabel("	Current classifier: "+ classifier.toString());
+        
+        WebMenuItem menu1Item1 = new WebMenuItem("ADTree");
+        menu1Item1.addActionListener(new ActionListener(){
+			@Override
+			public void actionPerformed(ActionEvent e) {
+			classifier = Classifier.ADtree;
+			currentcfer.setText("	Current Classifier: " + classifier);
+			}
+        	
+        });
+
+        WebMenuItem menu1Item2 = new WebMenuItem("Naive Bayes");
+        menu1Item2.addActionListener(new ActionListener(){
+			@Override
+			public void actionPerformed(ActionEvent e) {
+			classifier = Classifier.NaiveBayes;
+			currentcfer.setText("	Current Classifier: " + classifier);
+			}
+        	
+        });        
+        WebMenuItem menu1Item3 = new WebMenuItem("Random Forest");
+        menu1Item3.addActionListener(new ActionListener(){
+			@Override
+			public void actionPerformed(ActionEvent e) {
+			classifier = Classifier.RandomForest;
+			currentcfer.setText("	Current Classifier: " + classifier);
+			}
+        	
+        });
+        WebMenuItem menu1Item4 = new WebMenuItem("J48");
+        menu1Item4.addActionListener(new ActionListener(){
+			@Override
+			public void actionPerformed(ActionEvent e) {
+			classifier = Classifier.J48;
+			currentcfer.setText("	Current Classifier: " + classifier);
+			}
+        	
+        });
+        WebMenuItem menu1Item5 = new WebMenuItem("Sequential Minimal Optimization (Support Vector Machine)");
+        menu1Item5.addActionListener(new ActionListener(){
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+			classifier = Classifier.SMO;
+			currentcfer.setText("	Current Classifier: " + classifier);
+			}
+        	
+        });
+        currentcfer.setAlignmentX(menu1Item1.getAlignmentX());
+        
+       
+        menu1.add(currentcfer);
+        menu1.add(menu1Item1);
+        menu1.add(menu1Item2);
+        menu1.add(menu1Item3);
+        menu1.add(menu1Item4);
+        menu1.add(menu1Item5);
+
+        
+        
         menuBar.add(menu1);
         menuBar.add(menu2);
         //setJMenuBar ( menuBar );
         
-        JFrame frame = new JFrame();
+        JFrame frame = new JFrame("FYP Demo");
+        //frame.setTitle("FYP Demo");
+        frame.setIconImage(BrowserIcon);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         JPanel paneltop = new JPanel(new GridBagLayout());
         GridBagConstraints c = new GridBagConstraints();
@@ -1193,9 +1290,7 @@ public class WebviewApp {
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
         browser.setContextMenuHandler(new MyContextMenuHandler(browserView));
-        browserView.getBounds();
-        browserView.setOpaque(false);
-        
+
         JPopupMenu.setDefaultLightWeightPopupEnabled(false);
         
         browser.addLoadListener(new LoadAdapter() {

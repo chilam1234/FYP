@@ -11,6 +11,7 @@ import java.awt.Point;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.PrintWriter;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
 import java.util.regex.Matcher;
@@ -205,8 +206,7 @@ public class WebviewApp {
         	   DataSource source;
 			   DOMNode pNode = null;
 			   DOMElement pEle = null;
-			   int instNo =0;
-        		try {
+			   try {
 					arff = new ARFF();
 				} catch (Exception e1) {
 					// TODO Auto-generated catch block
@@ -233,15 +233,19 @@ public class WebviewApp {
 				        case NaiveBayes:
 				        	NaiveBayes NB = new NaiveBayes();
 				        	ASclassifier.setClassifier(NB);
+				        	break;
 				        case RandomForest:
 				        	RandomForest RF = new RandomForest();
 				        	ASclassifier.setClassifier(RF);
+				        	break;
 				        case J48:
 				        	J48 j48 = new J48();
 				        	ASclassifier.setClassifier(j48);
+				        	break;
 				        case SMO:
 				        	SMO smo = new SMO();
 				        	ASclassifier.setClassifier(smo);
+				        	break;
 						default:
 							ADTree adtree1 = new ADTree();
 					        ASclassifier.setClassifier(adtree1);
@@ -259,8 +263,7 @@ public class WebviewApp {
 					}
             		
         			for (DOMElement img : imgs) {
-        				instNo ++;
-				    	arff.createInsatnce();
+        				arff.createInsatnce();
 				    	String height = img.getAttribute("height");
 				    	if(!height.isEmpty())
 				    	{				    	
@@ -352,7 +355,6 @@ public class WebviewApp {
     		        			DOMDocument frameDOM = browser.getDocument(framesId);
     		                    List<DOMElement> innerframes = frameDOM.findElements(By.tagName("iframe"));
     					    for (DOMElement iframe : innerframes) {	
-    					    	instNo++;
     					    	arff.createInsatnce();
     					        arff.SetLabel();
     					    	String height = iframe.getAttribute("height");
@@ -419,7 +421,7 @@ public class WebviewApp {
     	        	
     	        	}
         		 WebNotification popup = new WebNotification ( NotificationStyle.mac );
-                 popup.setContent ( "Successfully Classified" ); 
+                 popup.setContent ( "Successfully Classified Using " ); 
                  popup.setDisplayTime ( 3000 );
                  NotificationManager.showNotification (popup);
         		}
@@ -528,7 +530,7 @@ public class WebviewApp {
 
 	                     arff.addfeatures("frameOrimage", "image");
 						 
-	                     if(img.getAttribute("alt").contains("advertisment")){
+	                     if(img.getAttribute("alt").contains("advertisment")||pEle.getAttribute("href").contains("redirect")){
 							 arff.addfeatures("targetvalue","AD"); 
 							 //arff.getInstance().setClassValue(0);
 							 }else{
@@ -1365,7 +1367,6 @@ public class WebviewApp {
                         boolean isAD = false;
                        Set<Long> framesIds = browser.getFramesIds();    
         	        	for (Long framesId : framesIds) {
-        	        	  //if(framesId!=Browser.MAIN_FRAME_ID){
         	        			DOMDocument frameDOM = browser.getDocument(framesId);
         	                    List<DOMElement> innerframes = frameDOM.findElements(By.tagName("iframe"));
         	                    for(DOMElement iframe:innerframes ){
@@ -1377,21 +1378,42 @@ public class WebviewApp {
         	                    		System.out.println("success");
         	                    		isAD = true;
         	                    		break;
-        	                    		}else{
+        	                    		}
+       	                    		
+       	                    		else{
        	                    			    System.out.println(tempsrc);
         	                    			System.out.println(tempname);
         	                    		isAD = true;
         	                    		break;
         	                    		}
         	                    	}
+       	                    		System.out.println(framesId);
+            	                    //if(framesId.equals(Browser.MAIN_FRAME_ID)){
+        	                    		//iframe.getParent().getChildren()
+            	                   		 List<DOMNode> Nodes = iframe.getParent().getChildren();
+                                		 for(DOMNode node:Nodes){
+                                			 if(node.getNodeName().equalsIgnoreCase("a")){
+                                				DOMElement tempele = (DOMElement) node ;
+                                				if(tempele.getAttribute("href").equalsIgnoreCase(href)){
+                    	                    		iframe.setAttribute("name",tempname+"Advertisment");
+                    	                    		System.out.println("success");
+                    	                    		isAD = true;
+                    	                    		break;	
+                                				}
+                                			 }
+                                		 }
+            	                    //}
 
   		                    	  }
-        	                   // } 
+
+        	                    
+        	                    
+        	                    
         	                    }
         	        	
                         for(DOMElement img:imgs){
                      	   
-                     	   if(img.getAttribute("src").equalsIgnoreCase(linkURL)){
+                     	   if(linkURL.contains(img.getAttribute("src"))){
                      		   
                          	   if(!img.getAttribute("alt").contains("advertisment")){
                                 String original = img.getAttribute("alt");
@@ -1410,6 +1432,7 @@ public class WebviewApp {
                      	   }
                      	   if(img.getParent()!=null){
                      	   if(img.getParent().getNodeName().equalsIgnoreCase("a")&&!href.isEmpty()){
+                     		   
                      		   DOMElement pEle = (DOMElement)img.getParent(); 
                      		   if(pEle.getAttribute("href").equalsIgnoreCase(href)){
                                     String original = img.getAttribute("alt");
@@ -1422,11 +1445,25 @@ public class WebviewApp {
                      		   }
 
              	            }else{
+
              	            	System.out.println(img.getAttribute("href is empty~"));
              	            }
-                     	   
+                    		 List<DOMNode> Nodes = img.getParent().getChildren();
+                    		 for(DOMNode node:Nodes){
+                    			 if(node.getNodeName().equalsIgnoreCase("a")){
+                    				DOMElement tempele = (DOMElement) node ;
+                    				if(tempele.getAttribute("href").equalsIgnoreCase(href)){
+                                       String original = img.getAttribute("alt");
+                                       img.setAttribute("alt",original +"advertisment" ); 
+                                       System.out.println("success");
+                                       isAD = true;
+                                       break;	
+                    				}
+                    			 }
+                    		 }
                      	   System.out.println(img.getAttribute("src"));
                      	   }
+                  	   
                         }
         	        	
                         if(!isAD){
@@ -1436,6 +1473,7 @@ public class WebviewApp {
                         else{
                            System.out.println("Successfully tag it as Advertisment");	
                      	   }
+                        
                         WebNotification popup = new WebNotification ( NotificationStyle.mac );
                         if(isAD){
                         	popup.setContent ( "Successfully tagged" ); 

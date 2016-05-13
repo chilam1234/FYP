@@ -19,13 +19,11 @@ import com.gargoylesoftware.htmlunit.javascript.host.css.ComputedCSSStyleDeclara
 import com.gargoylesoftware.htmlunit.javascript.host.html.HTMLElement;
 
 
-
 import java.io.*;
 
 public class main {
 
-	
-	
+
 	
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
@@ -52,67 +50,5 @@ public class main {
 	
 	}
 
-
-	 
-	
-	
-	
-	public static void Parsing() throws Exception {
-		
-		
-		
-		WebClient  webClient= new  WebClient(BrowserVersion.CHROME ); 
-		String url = "http://www.nytimes.com/"; 
-		String Filename = url.substring(url.indexOf("/")+2, url.lastIndexOf("m/"));
-		Filename.replaceAll("[^a-zA-Z]", "");
-	    webClient.getOptions().setThrowExceptionOnScriptError(false);
-	    webClient.getOptions().setCssEnabled(true);
-	    webClient.getOptions().setTimeout(50000); 
-	    webClient.setAjaxController(new NicelyResynchronizingAjaxController());
-	    webClient.waitForBackgroundJavaScript(50000);
-	    HtmlPage page = webClient.getPage(url);
-	    DomNodeList<DomElement> list = page.getElementsByTagName("img");
-
-	    
-	    String pageXml = page.asXml(); 
-	    Document doc = Jsoup.parse(pageXml);
-		Elements imgtag = doc.select("a:has(img):not(:has(div))");
-		Elements iframetag = doc.select("iframe");
-
-     	PrintWriter out = new PrintWriter(Filename+".txt");
-	    final List<?> imgs = page.getByXPath("//img");
-        System.out.println(pageXml);
-        for(Object e: imgs){
-        }
-		out.println("a tag");
-		for(Element element:imgtag){
-		out.println("taarget href: " + element.attr("href").toString());
-		out.println("img src: " + element.child(0).attr("abs:src").toString()+ "|title :" + element.child(0).attr("title").toString() + "|width :" + element.child(0).attr("width").toString()+ "|height :" + element.child(0).attr("height").toString());
-		out.println("___________________");
-		}
-		out.println("Iframe");
-		for(Element element:iframetag){
-		//out.println(element.toString());
-		out.println("ID :"+ element.id().toString() + "|width :"+ element.attr("width").toString()+ "|height :"+ element.attr("height").toString() );
-		out.println("src :" + element.attr("abs:src").toString());
-		out.println("___________________");
-		}
-
-		for(DomElement e:list){
-			HtmlElement tempele = (HtmlElement)e;
-			ComputedCSSStyleDeclaration style =
-				    ((HTMLElement)(tempele).getScriptableObject()).getCurrentStyle();
-			System.out.println(style.getAttribute("alt", 1).toString()+"*"+style.getWidth()+"*" + style.getHeight());
-		}
-
-		out.close();
-	  
 	}
-    
 
-	
-	
-	
-	
-	
-}
